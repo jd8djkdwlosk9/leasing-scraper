@@ -1,0 +1,46 @@
+name: Scrape Leasing
+
+on:
+  schedule:
+    # ~2x pro Stunde, UTC. Deckt ca. 07–20 Uhr Berlin ab (Sommer/Winter mit Rand).
+    # Die Nachtruhe erzwingt zusätzlich scrape_export.php in Berlin-Zeit.
+    - cron: '17,47 5-18 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Kleiner Zufalls-Versatz (Tarnung der Uhrzeit)
+        run: sleep $((RANDOM % 60))
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: curl, gd, mbstring
+          coverage: none
+
+      - name: Scrapen
+        run: php scrape_export.php
+
+      - name: Ergebnis committen
+        run: |
+          git config user.name  "leasing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add offers.json data/equipment_cache.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Keine Änderung."
+          else
+            git commit -m "offers $(date -u +%FT%TZ)"
+            git push
+          fi
