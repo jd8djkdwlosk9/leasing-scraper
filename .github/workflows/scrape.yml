@@ -5,7 +5,12 @@ on:
     # ~2x pro Stunde, UTC. Deckt ca. 07–20 Uhr Berlin ab (Sommer/Winter mit Rand).
     # Die Nachtruhe erzwingt zusätzlich scrape_export.php in Berlin-Zeit.
     - cron: '17,47 5-18 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Auch nachts scrapen (manueller Check)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -32,6 +37,8 @@ jobs:
 
       - name: Scrapen
         run: php scrape_export.php
+        env:
+          FORCE_SCRAPE: ${{ github.event.inputs.force }}
 
       - name: Ergebnis committen
         run: |

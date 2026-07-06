@@ -7,12 +7,14 @@ declare(strict_types=1);
 // ============================================================
 date_default_timezone_set('Europe/Berlin');
 
-// Nachtruhe 20–7 Uhr: nichts tun (altes offers.json unangetastet lassen)
+// Nachtruhe 20–7 Uhr: nichts tun – AUSSER bei manuellem Check (FORCE_SCRAPE=true).
+$force = (getenv('FORCE_SCRAPE') === 'true');
 $h = (int)date('H');
-if ($h < 7 || $h >= 20) {
+if (!$force && ($h < 7 || $h >= 20)) {
     fwrite(STDERR, "Nachtruhe ($h Uhr Berlin) – kein Scrape.\n");
     exit(0);
 }
+if ($force) fwrite(STDERR, "Manueller Lauf (FORCE) – Nachtruhe übergangen.\n");
 
 require_once __DIR__ . '/config.php';
 require_once __DIR__ . '/helpers.php';
