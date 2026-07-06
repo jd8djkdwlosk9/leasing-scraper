@@ -56,10 +56,29 @@ if (defined('WISHLIST_FILTER_ENABLED') && WISHLIST_FILTER_ENABLED) {
     $all = apply_wishlist_filter($all, $budget);
 }
 
-// Sicherheitsnetz: bei 0 Angeboten (Totalausfall) altes offers.json NICHT überschreiben
+// Sicherheitsnetz gegen unvollständige Läufe (Drossel): altes offers.json NICHT
+// mit Teildaten überschreiben. Blockiert, wenn (a) 0 Angebote, (b) eine zuvor gut
+// gefüllte Quelle komplett wegbricht, oder (c) die Gesamtzahl < 50% des Vorstands.
 if (count($all) === 0) {
     fwrite(STDERR, "0 Angebote – offers.json bleibt unverändert (Schutz).\n");
     exit(0);
+}
+$prevRaw = @file_get_contents(__DIR__ . '/offers.json');
+$prev    = $prevRaw ? json_decode($prevRaw, true) : null;
+if (is_array($prev) && !empty($prev['offers'])) {
+    $pbys = []; foreach ($prev['offers'] as $o) { $s = $o['source'] ?? ''; $pbys[$s] = ($pbys[$s] ?? 0) + 1; }
+    $nbys = []; foreach ($all as $o) { $s = $o['source'] ?? ''; $nbys[$s] = ($nbys[$s] ?? 0) + 1; }
+    $collapsed = [];
+    foreach ($pbys as $s => $pc) {
+        if ($pc >= 5 && ($nbys[$s] ?? 0) === 0) $collapsed[] = "$s ($pc->0)";
+    }
+    $bigDrop = count($all) < 0.5 * count($prev['offers']);
+    if ($collapsed || $bigDrop) {
+        fwrite(STDERR, "UNVOLLSTÄNDIG – offers.json NICHT überschrieben. "
+            . ($collapsed ? "Weggebrochen: " . implode(', ', $collapsed) . ". " : "")
+            . "Neu " . count($all) . " vs. vorher " . count($prev['offers']) . ".\n");
+        exit(0);
+    }
 }
 
 $payload = [
