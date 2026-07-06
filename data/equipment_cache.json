@@ -639,5 +639,19 @@
         "color": "Grau",
         "features": [],
         "checked_at": "2026-07-06 15:14:50"
+    },
+    "toprate.de::BM56330296": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 17:31:37"
+    },
+    "toprate.de::BM25734308": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 17:31:40"
     }
 }
