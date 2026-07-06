@@ -366,5 +366,278 @@
             "Innovation Paket"
         ],
         "checked_at": "2026-07-06 14:40:17"
+    },
+    "toprate.de::BM89866796": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:14"
+    },
+    "toprate.de::BM23004825": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:16"
+    },
+    "toprate.de::BM21737721": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:18"
+    },
+    "toprate.de::BMD51627001": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:20"
+    },
+    "toprate.de::BMD52394801": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:23"
+    },
+    "toprate.de::BM30638890": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:25"
+    },
+    "toprate.de::BM99528623": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:27"
+    },
+    "toprate.de::BMD52844601": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:29"
+    },
+    "toprate.de::BM52310638": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:32"
+    },
+    "toprate.de::BM18648761": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:34"
+    },
+    "toprate.de::BM35240492": {
+        "status": "reject",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [
+            "Parking Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 15:14:36"
+    },
+    "toprate.de::BMD51831401": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:38"
+    },
+    "toprate.de::BMD51267901": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:40"
+    },
+    "toprate.de::BM28583049": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+            "Driving Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 15:14:42"
+    },
+    "toprate.de::BM16606435": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:45"
+    },
+    "toprate.de::BMD52405001": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:46"
+    },
+    "toprate.de::BM33450789": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 15:14:47"
+    },
+    "toprate.de::BM62921244": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::I42My59": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::22lJ15J": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::7pE942S": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::552H7Le": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::6W7X3i6": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::UR9043x": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::1L65B8l": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::26PiL25": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::W8ew210": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::7p180aB": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::j16j8h6": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+    },
+    "mister-leasing.de::614yxo1": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
     }
 }

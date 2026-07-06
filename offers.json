@@ -1,5 +1,5 @@
 {
-    "generated": "2026-07-06T12:40:17+00:00",
+    "generated": "2026-07-06T13:14:50+00:00",
     "count": 70,
     "offers": [
         {
@@ -780,7 +780,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/b4986902263bcc95db711f19dcfad5c16f013581bdb21603984bdb0854c32b01/front.jpeg",
             "color": "Blau",
             "list_price": 70236,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:14"
+            }
         },
         {
             "source": "toprate.de",
@@ -791,7 +802,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/ccae1faa89f958e387b672804babdd760f12af6b3e0507f3751aa6923e59f016/front.jpeg",
             "color": "Grau",
             "list_price": 70416,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:16"
+            }
         },
         {
             "source": "toprate.de",
@@ -802,7 +824,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/5713bb01a64aa02b189af27a8b9f4e71a91360a75cb84f2b9cee3535f8b1b452/front.jpeg",
             "color": "Blau",
             "list_price": 70700,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:18"
+            }
         },
         {
             "source": "toprate.de",
@@ -813,7 +846,18 @@
             "image": "https://cdn.mportal.de/CDN/images/6poi9/57472480b8d3d4e847def45a6f25dbbcab560cc6b16afbac584a6c9af1450e47/front.jpeg",
             "color": "Weiß",
             "list_price": 70980,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:20"
+            }
         },
         {
             "source": "toprate.de",
@@ -824,7 +868,18 @@
             "image": "https://cdn.mportal.de/CDN/images/6poi9/f38a860d42714369366f6141e9ae0d00dc0908af3607eeb233de2f6bcb61ef67/front.jpeg",
             "color": "Weiß",
             "list_price": 71906,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:23"
+            }
         },
         {
             "source": "toprate.de",
@@ -835,7 +890,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/01483bef1c56b7e2efdf1398944dca9fdde6dc5fd73f8f8abd2e5606e0382d0c/front.jpeg",
             "color": "Grau",
             "list_price": 72707,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:25"
+            }
         },
         {
             "source": "toprate.de",
@@ -846,7 +912,14 @@
             "image": "https://cdn.mportal.de/CDN/images/global/58e82126be6faf18f612470383feac8c270fcd6096e0cc1114f42c16427d0c39/front.jpeg",
             "color": "Grau",
             "list_price": 73126,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:27"
+            }
         },
         {
             "source": "toprate.de",
@@ -857,7 +930,18 @@
             "image": "https://cdn.mportal.de/CDN/images/6poi9/6050aa9664fb5266f58b7e49ae05693099f60003ff1d7e21464d47c2cfff09a1/front.jpeg",
             "color": "Weiß",
             "list_price": 73307,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:29"
+            }
         },
         {
             "source": "toprate.de",
@@ -868,7 +952,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/5131de05aded0af28702788e45f2b18e0ce280d527a4f500da903926533c724c/front.jpeg",
             "color": "Schwarz",
             "list_price": 73500,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:32"
+            }
         },
         {
             "source": "toprate.de",
@@ -879,7 +974,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/470423fbf0ca37e55d88239625fba8445a52bdd5021722b7d3b6f7a91d3ba8ba/front.jpeg",
             "color": "Schwarz",
             "list_price": 73580,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:34"
+            }
         },
         {
             "source": "toprate.de",
@@ -890,7 +996,16 @@
             "image": "https://cdn.mportal.de/CDN/images/global/2852a546e5e5c6f2c0ac0d56537782a501ee72fab89e2ce8b13710f2a1d0b355/front.jpeg",
             "color": "Schwarz",
             "list_price": 73990,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [
+                    "Parking Assistent Professional"
+                ],
+                "checked_at": "2026-07-06 15:14:36"
+            }
         },
         {
             "source": "toprate.de",
@@ -901,7 +1016,18 @@
             "image": "https://cdn.mportal.de/CDN/images/6poi9/2a422ce00d42b44a27fb3aac47e689b3a7917c219bf215c717f41fb4cd856a49/front.jpeg",
             "color": "Grau",
             "list_price": 74499,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:38"
+            }
         },
         {
             "source": "toprate.de",
@@ -912,7 +1038,18 @@
             "image": "https://cdn.mportal.de/CDN/images/5bgh7/52aaa8e76e7310706e65e21e97cb003d35cc7061dd2774bfd964787dec89d16a/front.jpeg",
             "color": "Schwarz",
             "list_price": 77800,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:40"
+            }
         },
         {
             "source": "toprate.de",
@@ -923,7 +1060,16 @@
             "image": "https://cdn.mportal.de/CDN/images/global/61013dd5caddfc65761f1385ac1fcb4da96ba32710a066e9626a13924f946dd7/front.jpeg",
             "color": "Grau",
             "list_price": 78100,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [
+                    "Driving Assistent Professional"
+                ],
+                "checked_at": "2026-07-06 15:14:42"
+            }
         },
         {
             "source": "toprate.de",
@@ -934,7 +1080,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/e4c75b30b75ea49b10cd4f27533991f9c035c9cbf1c7bc668903d08a46703e79/front.jpeg",
             "color": "Schwarz",
             "list_price": 78800,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:45"
+            }
         },
         {
             "source": "toprate.de",
@@ -945,7 +1102,18 @@
             "image": "https://cdn.mportal.de/CDN/images/5bgh7/46873f796e0947d956123210eb17261881d1ddc2aecb5255342730a2e6ab3d80/front.jpeg",
             "color": "Blau",
             "list_price": 79800,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:46"
+            }
         },
         {
             "source": "toprate.de",
@@ -956,7 +1124,17 @@
             "image": "https://cdn.mportal.de/CDN/images/global/d7faca77b0ee26a11e38008ff479f700dde108d04675cd0be008257b1c9d007c/front.jpeg",
             "color": "Weiß",
             "list_price": 84870,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional"
+                ],
+                "checked_at": "2026-07-06 15:14:47"
+            }
         },
         {
             "source": "toprate.de",
@@ -967,7 +1145,18 @@
             "image": "https://cdn.mportal.de/CDN/images/global/da2df68d228b85bb02dcac127eea80c887409e18af945d148850e17c829e2c56/front.jpeg",
             "color": "Schwarz",
             "list_price": 89890,
-            "category": "Junger Gebrauchtwagen"
+            "category": "Junger Gebrauchtwagen",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -977,7 +1166,14 @@
             "url": "https://mister-leasing.de/fahrzeug/I42My59",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780519324464-junc69.webp",
             "color": "Blau",
-            "list_price": 93009
+            "list_price": 93009,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -987,7 +1183,14 @@
             "url": "https://mister-leasing.de/fahrzeug/22lJ15J",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780519690893-ew8fac.webp",
             "color": "Schwarz",
-            "list_price": 90068
+            "list_price": 90068,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -997,7 +1200,14 @@
             "url": "https://mister-leasing.de/fahrzeug/7pE942S",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660836831-26ny6o.webp",
             "color": "Schwarz",
-            "list_price": 120169
+            "list_price": 120169,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1007,7 +1217,14 @@
             "url": "https://mister-leasing.de/fahrzeug/552H7Le",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
             "color": "Weiß",
-            "list_price": 101069
+            "list_price": 101069,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1017,7 +1234,14 @@
             "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
             "color": "Weiß",
-            "list_price": 121929
+            "list_price": 121929,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1027,7 +1251,14 @@
             "url": "https://mister-leasing.de/fahrzeug/UR9043x",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779468161020-gegx77.webp",
             "color": "Schwarz",
-            "list_price": 103188
+            "list_price": 103188,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1037,7 +1268,14 @@
             "url": "https://mister-leasing.de/fahrzeug/1L65B8l",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779911559103-zu8vlx.webp",
             "color": "Schwarz",
-            "list_price": 103188
+            "list_price": 103188,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1047,7 +1285,14 @@
             "url": "https://mister-leasing.de/fahrzeug/26PiL25",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/ai/bmw-ix-front-1776897730620-220cb22c.png",
             "color": "Schwarz",
-            "list_price": 103639
+            "list_price": 103639,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1057,7 +1302,14 @@
             "url": "https://mister-leasing.de/fahrzeug/W8ew210",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
             "color": "Schwarz",
-            "list_price": 122740
+            "list_price": 122740,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1067,7 +1319,14 @@
             "url": "https://mister-leasing.de/fahrzeug/7p180aB",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix--1780661107992-2atmm4.webp",
             "color": "Weiß",
-            "list_price": 153240
+            "list_price": 153240,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1077,7 +1336,14 @@
             "url": "https://mister-leasing.de/fahrzeug/j16j8h6",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779913006970-ostiv4.webp",
             "color": "Grau",
-            "list_price": 144025
+            "list_price": 144025,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         },
         {
             "source": "mister-leasing.de",
@@ -1087,7 +1353,14 @@
             "url": "https://mister-leasing.de/fahrzeug/614yxo1",
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779910984492-2olxko.webp",
             "color": "Grau",
-            "list_price": 148194
+            "list_price": 148194,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
         }
     ]
 }
