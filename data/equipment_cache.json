@@ -1,0 +1,370 @@
+{
+    "ohne-anzahlung.de::7437980": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 14:39:11"
+    },
+    "ohne-anzahlung.de::7411649": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+            "Driving Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:13"
+    },
+    "ohne-anzahlung.de::7427722": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:14"
+    },
+    "ohne-anzahlung.de::7465900": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:15"
+    },
+    "ohne-anzahlung.de::7465899": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:16"
+    },
+    "toprate24.de::608452": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:18"
+    },
+    "toprate24.de::615835": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:19"
+    },
+    "goleasy.de::b54b00d1-debd-45b1-a10f-b1dc20d4e20d_3cae2e1c-f280-4a14-b1aa-a67052141d08": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:20"
+    },
+    "goleasy.de::c98f3610-8beb-4ee4-af9f-5ac301c25df9_fb60ab11-753a-445c-a718-7fc426e5818b": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:20"
+    },
+    "goleasy.de::f036d272-9c05-49b9-8bdd-6f8652969001_9687758b-6f10-494a-947c-0071dc42b2e7": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:21"
+    },
+    "goleasy.de::e9eae73f-b421-4904-abb2-7c4dd831c7b7_f4cbc1e5-2801-4948-a889-da9873d8fcfd": {
+        "status": "unknown",
+        "matches": false,
+        "color": null,
+        "features": [],
+        "checked_at": "2026-07-06 14:39:21"
+    },
+    "goleasy.de::8dd2b186-7091-40fa-8b98-8a2ec58f5a69_0ff4376f-9ec7-4c99-b5c1-7c1623337c49": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:21"
+    },
+    "leasingmarkt.de::lm_12806915": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:22"
+    },
+    "toprate.de::BM95262467": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 14:39:24"
+    },
+    "toprate.de::BM34287404": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 14:39:25"
+    },
+    "toprate.de::BMD48385501": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:27"
+    },
+    "toprate.de::BM85263766": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 14:39:29"
+    },
+    "toprate.de::BM95899033": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:32"
+    },
+    "toprate.de::BMD50922901": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:34"
+    },
+    "toprate.de::BMD53270901": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:36"
+    },
+    "toprate.de::BM74646036": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:38"
+    },
+    "toprate.de::BMD52962801": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:41"
+    },
+    "toprate.de::BMD53270801": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:43"
+    },
+    "toprate.de::BMD48192901": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:45"
+    },
+    "toprate.de::BM17368069": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:47"
+    },
+    "toprate.de::BMD50968501": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:49"
+    },
+    "toprate.de::BMD50484001": {
+        "status": "reject",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:52"
+    },
+    "toprate.de::BMD48693301": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:53"
+    },
+    "toprate.de::BMD52453201": {
+        "status": "reject",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:55"
+    },
+    "toprate.de::BM87596500": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:57"
+    },
+    "toprate.de::BM42680699": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:59"
+    },
+    "toprate.de::BMD51298501": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 14:40:02"
+    },
+    "toprate.de::BMN24133501": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:40:04"
+    },
+    "toprate.de::BMD48693401": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:40:06"
+    },
+    "toprate.de::BM22601315": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:40:07"
+    },
+    "toprate.de::BM99142017": {
+        "status": "reject",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 14:40:10"
+    },
+    "toprate.de::BMD51475801": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:40:11"
+    },
+    "toprate.de::BMD47473401": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:40:13"
+    },
+    "toprate.de::BM24317643": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 14:40:16"
+    },
+    "toprate.de::BM90008286": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional",
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:40:17"
+    }
+}
