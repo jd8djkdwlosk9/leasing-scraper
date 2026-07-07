@@ -695,5 +695,12 @@
         "color": "Weiß",
         "features": [],
         "checked_at": "2026-07-07 13:33:30"
+    },
+    "goleasy.de::9a29bbd7-4c35-4c7f-912f-2d20c6d55d1c_bb0585fe-6206-4d5d-bf34-9c737ffe8367": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-07 18:01:19"
     }
 }
