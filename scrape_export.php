@@ -26,12 +26,14 @@ require_once __DIR__ . '/scrapers/leasingmarkt.php';
 require_once __DIR__ . '/scrapers/toprate.php';
 require_once __DIR__ . '/scrapers/mister_leasing.php';
 
+// toprate.de wird bewusst NICHT über GitHub gescrapt: toprate blockiert
+// Cloud-/Rechenzentrums-IPs (Azure). ap86 holt toprate direkt (dessen IP
+// wird von toprate akzeptiert) und mischt es zu diesen 5 Quellen.
 $scrapers = [
     'ohne-anzahlung.de' => 'scrape_ohne_anzahlung',
     'toprate24.de'      => 'scrape_toprate24',
     'goleasy.de'        => 'scrape_goleasy',
     'leasingmarkt.de'   => 'scrape_leasingmarkt',
-    'toprate.de'        => 'scrape_toprate',
     'mister-leasing.de' => 'scrape_mister_leasing',
 ];
 

@@ -1,1380 +1,430 @@
 {
-    "generated": "2026-07-06T17:45:51+00:00",
-    "count": 71,
-    "offers": [
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7437980",
-            "title": "BMW iX xDrive45",
-            "price": "601,55 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7437980/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/58/0d/580d140e02e1dce302822ef28b262f3a@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 14:39:11"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7411649",
-            "title": "BMW iX xDrive45",
-            "price": "789,01 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7411649/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/2c/78/2c789749f23cece8f1dfb7703f847e5f@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Rot",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:13"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7427722",
-            "title": "BMW iX M70 xDrive",
-            "price": "831,80 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7427722/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/17/52/1752d879499f11d5c469a22a9c4a6c84@1x.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:14"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7465900",
-            "title": "BMW i7 M70 xDrive Limousine",
-            "price": "950,81 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465900/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/da/c7/dac73e445c8a65923677967dece00607@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:15"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7465899",
-            "title": "BMW i7 M70 xDrive Limousine /",
-            "price": "950,81 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465899/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/ac/40/ac400284b95d7e8720c225578c336021@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:16"
-            }
-        },
-        {
-            "source": "toprate24.de",
-            "id": "608452",
-            "title": "BMW iX xDrive45 M Sportpaket Neues Modell! AHK ACC P",
-            "price": "729,– €/mtl.",
-            "url": "https://www.toprate24.de/bmw-ix-leasing-x__608452.php",
-            "image": "https://img.autrado.de/2216/18338985_640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Rot",
-                "features": [
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:18"
-            }
-        },
-        {
-            "source": "toprate24.de",
-            "id": "615835",
-            "title": "BMW iX M70 xDrive NP 144055.- AHK Pano B&W HuD ACC",
-            "price": "990,– €/mtl.",
-            "url": "https://www.toprate24.de/bmw-ix-leasing-x__615835.php",
-            "image": "https://img.autrado.de/2216/18409614_640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:19"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "b54b00d1-debd-45b1-a10f-b1dc20d4e20d_3cae2e1c-f280-4a14-b1aa-a67052141d08",
-            "title": "BMW iX xDrive40 Sport SkyLounge Laser DA/PA-Pro H/K",
-            "price": "529,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/b54b00d1-debd-45b1-a10f-b1dc20d4e20d/leasing/3cae2e1c-f280-4a14-b1aa-a67052141d08?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7265f21-5b32-4562-8547-e6d84226f913?rule=mo-640.jpg",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:20"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "c98f3610-8beb-4ee4-af9f-5ac301c25df9_fb60ab11-753a-445c-a718-7fc426e5818b",
-            "title": "BMW iX xDrive 45 M SPORT Leasing o.Anz.595,- Navi",
-            "price": "632,43 €/mtl.",
-            "url": "https://www.goleasy.de/forward/c98f3610-8beb-4ee4-af9f-5ac301c25df9/leasing/fb60ab11-753a-445c-a718-7fc426e5818b?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/4c/4c5f66a1-8ead-4896-ba28-2919be8a2765?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:20"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "f036d272-9c05-49b9-8bdd-6f8652969001_9687758b-6f10-494a-947c-0071dc42b2e7",
-            "title": "BMW iX xDrive 45 M SPORT PRO Leasing o.Anz.598,- LED",
-            "price": "638,60 €/mtl.",
-            "url": "https://www.goleasy.de/forward/f036d272-9c05-49b9-8bdd-6f8652969001/leasing/9687758b-6f10-494a-947c-0071dc42b2e7?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/3f/3fd498dc-c3a1-465e-86b5-cc05e594934c?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:21"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "e9eae73f-b421-4904-abb2-7c4dd831c7b7_f4cbc1e5-2801-4948-a889-da9873d8fcfd",
-            "title": "BMW iX xDrive50 Standardausstattung",
-            "price": "641,01 €/mtl.",
-            "url": "https://www.goleasy.de/forward/e9eae73f-b421-4904-abb2-7c4dd831c7b7/leasing/f4cbc1e5-2801-4948-a889-da9873d8fcfd?source=redirect",
-            "image": "",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": null,
-                "features": [],
-                "checked_at": "2026-07-06 14:39:21"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "8dd2b186-7091-40fa-8b98-8a2ec58f5a69_0ff4376f-9ec7-4c99-b5c1-7c1623337c49",
-            "title": "BMW iX xDrive50 HUD+ACC+AHK+RFK+NAVI+Standh.+LED",
-            "price": "643,80 €/mtl.",
-            "url": "https://www.goleasy.de/forward/8dd2b186-7091-40fa-8b98-8a2ec58f5a69/leasing/0ff4376f-9ec7-4c99-b5c1-7c1623337c49?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/26/26449554-85f7-452d-bb58-798c228dce01?rule=mo-640.jpg",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:21"
-            }
-        },
-        {
-            "source": "leasingmarkt.de",
-            "id": "lm_12806915",
-            "title": "BMW ix iX xDrive45 M Sport AHK DA Prof PA Prof Autobahnassistent (27M / 5.000 km/Jahr)",
-            "price": "573,02 €/mtl.",
-            "url": "https://www.leasingmarkt.de/leasing/pkw/bmw-ix/12806915?adVariant=34514590",
-            "image": "https://www.leasingmarkt.de/data/resized/V1_278713753_600x450_2.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:22"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM95262467",
-            "title": "BMW iX xDrive40 – Weiß · Junger Gebrauchtwagen",
-            "price": "509,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM95262467?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/0caa4938ea1434f7ca79f35b154e5b32545fd7baba7d768fa99337404bbf854e/front.jpeg",
-            "color": "Weiß",
-            "list_price": 54700,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 14:39:24"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM34287404",
-            "title": "BMW iX xDrive40 – Schwarz · Junger Gebrauchtwagen",
-            "price": "490,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM34287404?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/f0f2254fd182c4ef3fd60e57ad4749f28ef1831da913925d194ef123155281ea/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 54999,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 14:39:25"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD48385501",
-            "title": "BMW iX xDrive45 – Blau · Junger Gebrauchtwagen",
-            "price": "669,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD48385501?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/9ad7774bfb0a60f69e94533f1d770df4932ed231c25f159d3bc700429aebac5b/front.jpeg",
-            "color": "Blau",
-            "list_price": 57950,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:27"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM85263766",
-            "title": "BMW iX xDrive40 – Schwarz · Junger Gebrauchtwagen",
-            "price": "589,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM85263766?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/7ea7403bc22136566f6cb967e68e6acb89c9c080483ff45742e7b7ca9ddbcd0c/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 57950,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 14:39:29"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM95899033",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "607,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM95899033?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/33f4a45f669992383bd9dffd895ceaecd743eea7df7a8abfb82359f807653c23/front.jpeg",
-            "color": "Weiß",
-            "list_price": 58460,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:32"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM56330296",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "650,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM56330296?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/fa08bcf8b3a8fc9257fcd39b1389e13adcf5f0d8564489c1c8a016d80f1c6a3a/front.jpeg",
-            "color": "Weiß",
-            "list_price": 60960,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 17:31:37"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD50922901",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "631,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD50922901?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/8e38fb285d8ecb2ca1abdd88ef787b8dfcc5f03fe6e80f95b1b6c21116a1aac0/front.jpeg",
-            "color": "Weiß",
-            "list_price": 62106,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:34"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD53270901",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "563,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD53270901?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/8zwf0/94b7ea1b4e3f55c715d678c2fe8a4acfb4e938d01ca5eac3a8665227280e049f/front.jpeg",
-            "color": "Weiß",
-            "list_price": 63210,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:36"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM74646036",
-            "title": "BMW iX xDrive45 – Blau · Junger Gebrauchtwagen",
-            "price": "643,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM74646036?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/8cccb96e4c29ef9f692f66b29d40f22f3aad1578398cb238d95fb18a6fc5a217/front.jpeg",
-            "color": "Blau",
-            "list_price": 63380,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:38"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD52962801",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "655,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD52962801?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/b9417033639d1852c77ab2727e62cbf19389bd5a92672ef001f3c72651b642e3/front.jpeg",
-            "color": "Grau",
-            "list_price": 64480,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:41"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD53270801",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "597,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD53270801?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/8zwf0/e8602e8dd6e5b3b36633bfbd2d536770b385b9cba596c1dab9961b3fd9ac7781/front.jpeg",
-            "color": "Weiß",
-            "list_price": 64650,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:43"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD48192901",
-            "title": "BMW iX xDrive45 – Rot · Junger Gebrauchtwagen",
-            "price": "617,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD48192901?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/9gn0/9f08cebca1dd5683e8979b9921afd8246426ce6a9cb2ffc5e980472a2d80ab8b/front.jpeg",
-            "color": "Rot",
-            "list_price": 64850,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Rot",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:45"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM17368069",
-            "title": "BMW iX xDrive45 – Rot · Junger Gebrauchtwagen",
-            "price": "717,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM17368069?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/d6d5d78e963783c79b5c5ab620d5a7195c554b1a20bad41150f68f530e82554a/front.jpeg",
-            "color": "Rot",
-            "list_price": 65569,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Rot",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:47"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD50484001",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "574,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD50484001?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/5way9/5468435dc959ddc3630b034d931b1382482c85ac922a3e03e1cf5f9b23b65663/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 65990,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:52"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD48693301",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "601,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD48693301?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/94146a3944ceb9d99be7da9e973f4bac639d361c34282badf8951bc1ebd93685/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 66170,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:53"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD52453201",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "701,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD52453201?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/86c9022ace891962d64d081be20d050f6b49f5a5b6b2a3df85332abb91241c95/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 66280,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 14:39:55"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM87596500",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "790,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM87596500?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/586f6e6e24437eae20ccd64dc46849ff893ecfa28075f19f4a508266fd4e2243/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 66660,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:57"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM42680699",
-            "title": "BMW iX xDrive45 – Blau · Junger Gebrauchtwagen",
-            "price": "785,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM42680699?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/3f5c06e39a1c7568d92006414c3ed57267a9a21d7e9f6410e566ba1ff8cbd777/front.jpeg",
-            "color": "Blau",
-            "list_price": 66660,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:59"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD51298501",
-            "title": "BMW iX xDrive50 – Grau · Junger Gebrauchtwagen",
-            "price": "509,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD51298501?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/5swe3/60e5c6c556cf9c958895d305805aa67fda1eb1868fff0a3251fe509c83793675/front.jpeg",
-            "color": "Grau",
-            "list_price": 66888,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 14:40:02"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMN24133501",
-            "title": "BMW iX xDrive45 – Rot · Vorführwagen",
-            "price": "747,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMN24133501?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/4bcs3/cf25feaaa47f3dbd540b9fcc12cf52a5a7a9316da0795310558cdd97b4a2e42f/front.jpeg",
-            "color": "Rot",
-            "list_price": 68289,
-            "category": "Vorführwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Rot",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:40:04"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD48693401",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "601,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD48693401?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/5ijk6/c9cd4d3f968deecd93f46de8f505396d048e3810c7102d9209428a5023339768/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 67430,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:40:06"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM22601315",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "675,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM22601315?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/d63d2e07347e3ef21d5c476869d9d0abe80c2306d1d7d6c20eb8e6e558371a26/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 67780,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:40:07"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM99142017",
-            "title": "BMW iX xDrive50 – Schwarz · Junger Gebrauchtwagen",
-            "price": "522,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM99142017?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/f0a4172a82bc586ee944b7b13241bcf8c92201264aa75e767b35b1f9397f010d/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 67890,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 14:40:10"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD51475801",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "623,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD51475801?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6xdt4/b1252403553c9a8d8798732c59374c89c87ca80c3fac1d02f68bd4fb03fec18d/front.jpeg",
-            "color": "Grau",
-            "list_price": 67980,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:40:11"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD47473401",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "628,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD47473401?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/5ijk6/89ec1079e2254f00331bf3d1667bb2d7395d5b53473bdd5acd32147eae9d7c23/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 68170,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:40:13"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM25734308",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "777,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM25734308?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/0a6732263f8fc84ff0782314d9db37b7b371a735f8b3407649bf57e1ad83db03/front.jpeg",
-            "color": "Grau",
-            "list_price": 68188,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 17:31:40"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM24317643",
-            "title": "BMW iX xDrive50 – Grau · Junger Gebrauchtwagen",
-            "price": "595,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM24317643?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/2fe9fdde281dfe238b7db6130909ee53f7dbf78947089b0014b10437304ee140/front.jpeg",
-            "color": "Grau",
-            "list_price": 68520,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 14:40:16"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM90008286",
-            "title": "BMW iX xDrive45 – Blau · Junger Gebrauchtwagen",
-            "price": "718,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM90008286?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/2889305b02a0dce00341b8b3a84bb30f023b7e07157dc6f29662222b985b6ca8/front.jpeg",
-            "color": "Blau",
-            "list_price": 69900,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:40:17"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM89866796",
-            "title": "BMW iX xDrive45 – Blau · Junger Gebrauchtwagen",
-            "price": "724,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM89866796?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/b4986902263bcc95db711f19dcfad5c16f013581bdb21603984bdb0854c32b01/front.jpeg",
-            "color": "Blau",
-            "list_price": 70236,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:14"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM23004825",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "734,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM23004825?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/ccae1faa89f958e387b672804babdd760f12af6b3e0507f3751aa6923e59f016/front.jpeg",
-            "color": "Grau",
-            "list_price": 70416,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:16"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM21737721",
-            "title": "BMW iX xDrive45 – Blau · Junger Gebrauchtwagen",
-            "price": "736,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM21737721?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/5713bb01a64aa02b189af27a8b9f4e71a91360a75cb84f2b9cee3535f8b1b452/front.jpeg",
-            "color": "Blau",
-            "list_price": 70700,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:18"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD51627001",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "729,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD51627001?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/57472480b8d3d4e847def45a6f25dbbcab560cc6b16afbac584a6c9af1450e47/front.jpeg",
-            "color": "Weiß",
-            "list_price": 70980,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:20"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM99528623",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "784,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM99528623?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/58e82126be6faf18f612470383feac8c270fcd6096e0cc1114f42c16427d0c39/front.jpeg",
-            "color": "Grau",
-            "list_price": 71771,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:27"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD52394801",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "770,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD52394801?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/f38a860d42714369366f6141e9ae0d00dc0908af3607eeb233de2f6bcb61ef67/front.jpeg",
-            "color": "Weiß",
-            "list_price": 71906,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:23"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM30638890",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "770,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM30638890?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/01483bef1c56b7e2efdf1398944dca9fdde6dc5fd73f8f8abd2e5606e0382d0c/front.jpeg",
-            "color": "Grau",
-            "list_price": 72707,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:25"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD52844601",
-            "title": "BMW iX xDrive45 – Weiß · Junger Gebrauchtwagen",
-            "price": "795,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD52844601?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/6050aa9664fb5266f58b7e49ae05693099f60003ff1d7e21464d47c2cfff09a1/front.jpeg",
-            "color": "Weiß",
-            "list_price": 73307,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:29"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM52310638",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "758,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM52310638?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/5131de05aded0af28702788e45f2b18e0ce280d527a4f500da903926533c724c/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 73500,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:32"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM18648761",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "759,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM18648761?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/470423fbf0ca37e55d88239625fba8445a52bdd5021722b7d3b6f7a91d3ba8ba/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 73580,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:34"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM35240492",
-            "title": "BMW iX xDrive50 – Schwarz · Junger Gebrauchtwagen",
-            "price": "742,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM35240492?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/2852a546e5e5c6f2c0ac0d56537782a501ee72fab89e2ce8b13710f2a1d0b355/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 73990,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [
-                    "Parking Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 15:14:36"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD51831401",
-            "title": "BMW iX xDrive45 – Grau · Junger Gebrauchtwagen",
-            "price": "792,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD51831401?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/6poi9/2a422ce00d42b44a27fb3aac47e689b3a7917c219bf215c717f41fb4cd856a49/front.jpeg",
-            "color": "Grau",
-            "list_price": 74499,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:38"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD51267901",
-            "title": "BMW iX xDrive45 – Schwarz · Junger Gebrauchtwagen",
-            "price": "681,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD51267901?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/5bgh7/52aaa8e76e7310706e65e21e97cb003d35cc7061dd2774bfd964787dec89d16a/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 77800,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:40"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM28583049",
-            "title": "BMW iX xDrive50 – Grau · Junger Gebrauchtwagen",
-            "price": "764,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM28583049?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/61013dd5caddfc65761f1385ac1fcb4da96ba32710a066e9626a13924f946dd7/front.jpeg",
-            "color": "Grau",
-            "list_price": 78100,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 15:14:42"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM16606435",
-            "title": "BMW iX xDrive60 – Schwarz · Junger Gebrauchtwagen",
-            "price": "778,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM16606435?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/e4c75b30b75ea49b10cd4f27533991f9c035c9cbf1c7bc668903d08a46703e79/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 78800,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:45"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BMD52405001",
-            "title": "BMW iX xDrive60 – Blau · Junger Gebrauchtwagen",
-            "price": "759,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BMD52405001?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/5bgh7/46873f796e0947d956123210eb17261881d1ddc2aecb5255342730a2e6ab3d80/front.jpeg",
-            "color": "Blau",
-            "list_price": 79800,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:46"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM33450789",
-            "title": "BMW iX M60 – Weiß · Junger Gebrauchtwagen",
-            "price": "696,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM33450789?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/d7faca77b0ee26a11e38008ff479f700dde108d04675cd0be008257b1c9d007c/front.jpeg",
-            "color": "Weiß",
-            "list_price": 84870,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 15:14:47"
-            }
-        },
-        {
-            "source": "toprate.de",
-            "id": "BM62921244",
-            "title": "BMW iX M70 xDrive – Schwarz · Junger Gebrauchtwagen",
-            "price": "774,00 €/mtl. (27M/5.000km)",
-            "url": "https://toprate.de/junge-gebrauchte/bmw/i/v/BM62921244?leasing_default=27_5_0&listing=leasing&price=leasing",
-            "image": "https://cdn.mportal.de/CDN/images/global/da2df68d228b85bb02dcac127eea80c887409e18af945d148850e17c829e2c56/front.jpeg",
-            "color": "Schwarz",
-            "list_price": 89890,
-            "category": "Junger Gebrauchtwagen",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "I42My59",
-            "title": "BMW iX xDrive45 – 408 PS",
-            "price": "511,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/I42My59",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780519324464-junc69.webp",
-            "color": "Blau",
-            "list_price": 93009,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "22lJ15J",
-            "title": "BMW iX xDrive45 – 408 PS",
-            "price": "546,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/22lJ15J",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780519690893-ew8fac.webp",
-            "color": "Schwarz",
-            "list_price": 90068,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "7pE942S",
-            "title": "BMW iX xDrive50 – 523 PS",
-            "price": "558,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/7pE942S",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660836831-26ny6o.webp",
-            "color": "Schwarz",
-            "list_price": 120169,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "6W7X3i6",
-            "title": "BMW iX xDrive60 M Sport – 544 PS",
-            "price": "593,81 €/mtl. (24M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
-            "color": "Weiß",
-            "list_price": 121929,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "552H7Le",
-            "title": "BMW iX xDrive45 M Sport Pro (Facelift / LCI) – 408 PS",
-            "price": "593,81 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/552H7Le",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
-            "color": "Weiß",
-            "list_price": 101069,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "UR9043x",
-            "title": "BMW iX xDrive45 M Sport – 408 PS",
-            "price": "617,61 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/UR9043x",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779468161020-gegx77.webp",
-            "color": "Schwarz",
-            "list_price": 103188,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "1L65B8l",
-            "title": "BMW iX xDrive45 M Sport – 408 PS",
-            "price": "618,00 €/mtl. (24M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/1L65B8l",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779911559103-zu8vlx.webp",
-            "color": "Schwarz",
-            "list_price": 103188,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "26PiL25",
-            "title": "BMW iX xDrive45 – 555 PS",
-            "price": "712,00 €/mtl. (24M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/26PiL25",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/ai/bmw-ix-front-1776897730620-220cb22c.png",
-            "color": "Schwarz",
-            "list_price": 103639,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "7p180aB",
-            "title": "BMW iX M60 – 540 PS",
-            "price": "713,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/7p180aB",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix--1780661107992-2atmm4.webp",
-            "color": "Weiß",
-            "list_price": 153240,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "W8ew210",
-            "title": "BMW iX xDrive60 – 544 PS",
-            "price": "713,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
-            "color": "Schwarz",
-            "list_price": 122740,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "j16j8h6",
-            "title": "BMW iX iX M70 xDrive – 660 PS",
-            "price": "831,81 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/j16j8h6",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779913006970-ostiv4.webp",
-            "color": "Grau",
-            "list_price": 144025,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "614yxo1",
-            "title": "BMW iX M70 xDrive – 660 PS",
-            "price": "879,41 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/614yxo1",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779910984492-2olxko.webp",
-            "color": "Grau",
-            "list_price": 148194,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
-            }
-        }
-    ]
+  "generated": "2026-07-06T17:45:51+00:00",
+  "count": 25,
+  "offers": [
+    {
+      "source": "ohne-anzahlung.de",
+      "id": "7437980",
+      "title": "BMW iX xDrive45",
+      "price": "601,55 €/mtl.",
+      "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7437980/",
+      "image": "https://assets.ohne-anzahlung.de/media/cache/58/0d/580d140e02e1dce302822ef28b262f3a@1x.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+          "Driving Assistent Professional"
+        ],
+        "checked_at": "2026-07-06 14:39:11"
+      }
+    },
+    {
+      "source": "ohne-anzahlung.de",
+      "id": "7411649",
+      "title": "BMW iX xDrive45",
+      "price": "789,01 €/mtl.",
+      "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7411649/",
+      "image": "https://assets.ohne-anzahlung.de/media/cache/2c/78/2c789749f23cece8f1dfb7703f847e5f@1x.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+          "Driving Assistent Professional",
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:13"
+      }
+    },
+    {
+      "source": "ohne-anzahlung.de",
+      "id": "7427722",
+      "title": "BMW iX M70 xDrive",
+      "price": "831,80 €/mtl.",
+      "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7427722/",
+      "image": "https://assets.ohne-anzahlung.de/media/cache/17/52/1752d879499f11d5c469a22a9c4a6c84@1x.jpg",
+      "equipment": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+          "Driving Assistent Professional",
+          "Parking Assistent Professional",
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:14"
+      }
+    },
+    {
+      "source": "ohne-anzahlung.de",
+      "id": "7465900",
+      "title": "BMW i7 M70 xDrive Limousine",
+      "price": "950,81 €/mtl.",
+      "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465900/",
+      "image": "https://assets.ohne-anzahlung.de/media/cache/da/c7/dac73e445c8a65923677967dece00607@1x.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [
+          "Driving Assistent Professional",
+          "Parking Assistent Professional",
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:15"
+      }
+    },
+    {
+      "source": "ohne-anzahlung.de",
+      "id": "7465899",
+      "title": "BMW i7 M70 xDrive Limousine /",
+      "price": "950,81 €/mtl.",
+      "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465899/",
+      "image": "https://assets.ohne-anzahlung.de/media/cache/ac/40/ac400284b95d7e8720c225578c336021@1x.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+          "Driving Assistent Professional",
+          "Parking Assistent Professional",
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:16"
+      }
+    },
+    {
+      "source": "toprate24.de",
+      "id": "608452",
+      "title": "BMW iX xDrive45 M Sportpaket Neues Modell! AHK ACC P",
+      "price": "729,– €/mtl.",
+      "url": "https://www.toprate24.de/bmw-ix-leasing-x__608452.php",
+      "image": "https://img.autrado.de/2216/18338985_640.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:18"
+      }
+    },
+    {
+      "source": "toprate24.de",
+      "id": "615835",
+      "title": "BMW iX M70 xDrive NP 144055.- AHK Pano B&W HuD ACC",
+      "price": "990,– €/mtl.",
+      "url": "https://www.toprate24.de/bmw-ix-leasing-x__615835.php",
+      "image": "https://img.autrado.de/2216/18409614_640.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:19"
+      }
+    },
+    {
+      "source": "goleasy.de",
+      "id": "b54b00d1-debd-45b1-a10f-b1dc20d4e20d_3cae2e1c-f280-4a14-b1aa-a67052141d08",
+      "title": "BMW iX xDrive40 Sport SkyLounge Laser DA/PA-Pro H/K",
+      "price": "529,00 €/mtl.",
+      "url": "https://www.goleasy.de/forward/b54b00d1-debd-45b1-a10f-b1dc20d4e20d/leasing/3cae2e1c-f280-4a14-b1aa-a67052141d08?source=redirect",
+      "image": "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7265f21-5b32-4562-8547-e6d84226f913?rule=mo-640.jpg",
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:20"
+      }
+    },
+    {
+      "source": "goleasy.de",
+      "id": "c98f3610-8beb-4ee4-af9f-5ac301c25df9_fb60ab11-753a-445c-a718-7fc426e5818b",
+      "title": "BMW iX xDrive 45 M SPORT Leasing o.Anz.595,- Navi",
+      "price": "632,43 €/mtl.",
+      "url": "https://www.goleasy.de/forward/c98f3610-8beb-4ee4-af9f-5ac301c25df9/leasing/fb60ab11-753a-445c-a718-7fc426e5818b?source=redirect",
+      "image": "https://img.classistatic.de/api/v1/mo-prod/images/4c/4c5f66a1-8ead-4896-ba28-2919be8a2765?rule=mo-640.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:20"
+      }
+    },
+    {
+      "source": "goleasy.de",
+      "id": "f036d272-9c05-49b9-8bdd-6f8652969001_9687758b-6f10-494a-947c-0071dc42b2e7",
+      "title": "BMW iX xDrive 45 M SPORT PRO Leasing o.Anz.598,- LED",
+      "price": "638,60 €/mtl.",
+      "url": "https://www.goleasy.de/forward/f036d272-9c05-49b9-8bdd-6f8652969001/leasing/9687758b-6f10-494a-947c-0071dc42b2e7?source=redirect",
+      "image": "https://img.classistatic.de/api/v1/mo-prod/images/3f/3fd498dc-c3a1-465e-86b5-cc05e594934c?rule=mo-640.jpg",
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:21"
+      }
+    },
+    {
+      "source": "goleasy.de",
+      "id": "e9eae73f-b421-4904-abb2-7c4dd831c7b7_f4cbc1e5-2801-4948-a889-da9873d8fcfd",
+      "title": "BMW iX xDrive50 Standardausstattung",
+      "price": "641,01 €/mtl.",
+      "url": "https://www.goleasy.de/forward/e9eae73f-b421-4904-abb2-7c4dd831c7b7/leasing/f4cbc1e5-2801-4948-a889-da9873d8fcfd?source=redirect",
+      "image": "",
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": null,
+        "features": [],
+        "checked_at": "2026-07-06 14:39:21"
+      }
+    },
+    {
+      "source": "goleasy.de",
+      "id": "8dd2b186-7091-40fa-8b98-8a2ec58f5a69_0ff4376f-9ec7-4c99-b5c1-7c1623337c49",
+      "title": "BMW iX xDrive50 HUD+ACC+AHK+RFK+NAVI+Standh.+LED",
+      "price": "643,80 €/mtl.",
+      "url": "https://www.goleasy.de/forward/8dd2b186-7091-40fa-8b98-8a2ec58f5a69/leasing/0ff4376f-9ec7-4c99-b5c1-7c1623337c49?source=redirect",
+      "image": "https://img.classistatic.de/api/v1/mo-prod/images/26/26449554-85f7-452d-bb58-798c228dce01?rule=mo-640.jpg",
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 14:39:21"
+      }
+    },
+    {
+      "source": "leasingmarkt.de",
+      "id": "lm_12806915",
+      "title": "BMW ix iX xDrive45 M Sport AHK DA Prof PA Prof Autobahnassistent (27M / 5.000 km/Jahr)",
+      "price": "573,02 €/mtl.",
+      "url": "https://www.leasingmarkt.de/leasing/pkw/bmw-ix/12806915?adVariant=34514590",
+      "image": "https://www.leasingmarkt.de/data/resized/V1_278713753_600x450_2.jpg",
+      "equipment": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+          "Driving Assistent Professional",
+          "Parking Assistent Professional",
+          "Innovation Paket"
+        ],
+        "checked_at": "2026-07-06 14:39:22"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "I42My59",
+      "title": "BMW iX xDrive45 – 408 PS",
+      "price": "511,00 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/I42My59",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780519324464-junc69.webp",
+      "color": "Blau",
+      "list_price": 93009,
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "22lJ15J",
+      "title": "BMW iX xDrive45 – 408 PS",
+      "price": "546,00 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/22lJ15J",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780519690893-ew8fac.webp",
+      "color": "Schwarz",
+      "list_price": 90068,
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "7pE942S",
+      "title": "BMW iX xDrive50 – 523 PS",
+      "price": "558,00 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/7pE942S",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660836831-26ny6o.webp",
+      "color": "Schwarz",
+      "list_price": 120169,
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "6W7X3i6",
+      "title": "BMW iX xDrive60 M Sport – 544 PS",
+      "price": "593,81 €/mtl. (24M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
+      "color": "Weiß",
+      "list_price": 121929,
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "552H7Le",
+      "title": "BMW iX xDrive45 M Sport Pro (Facelift / LCI) – 408 PS",
+      "price": "593,81 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/552H7Le",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
+      "color": "Weiß",
+      "list_price": 101069,
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "UR9043x",
+      "title": "BMW iX xDrive45 M Sport – 408 PS",
+      "price": "617,61 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/UR9043x",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779468161020-gegx77.webp",
+      "color": "Schwarz",
+      "list_price": 103188,
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "1L65B8l",
+      "title": "BMW iX xDrive45 M Sport – 408 PS",
+      "price": "618,00 €/mtl. (24M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/1L65B8l",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779911559103-zu8vlx.webp",
+      "color": "Schwarz",
+      "list_price": 103188,
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "26PiL25",
+      "title": "BMW iX xDrive45 – 555 PS",
+      "price": "712,00 €/mtl. (24M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/26PiL25",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/ai/bmw-ix-front-1776897730620-220cb22c.png",
+      "color": "Schwarz",
+      "list_price": 103639,
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "7p180aB",
+      "title": "BMW iX M60 – 540 PS",
+      "price": "713,00 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/7p180aB",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix--1780661107992-2atmm4.webp",
+      "color": "Weiß",
+      "list_price": 153240,
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "W8ew210",
+      "title": "BMW iX xDrive60 – 544 PS",
+      "price": "713,00 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/W8ew210",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
+      "color": "Schwarz",
+      "list_price": 122740,
+      "equipment": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "j16j8h6",
+      "title": "BMW iX iX M70 xDrive – 660 PS",
+      "price": "831,81 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/j16j8h6",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779913006970-ostiv4.webp",
+      "color": "Grau",
+      "list_price": 144025,
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    },
+    {
+      "source": "mister-leasing.de",
+      "id": "614yxo1",
+      "title": "BMW iX M70 xDrive – 660 PS",
+      "price": "879,41 €/mtl. (27M/10.000km)",
+      "url": "https://mister-leasing.de/fahrzeug/614yxo1",
+      "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779910984492-2olxko.webp",
+      "color": "Grau",
+      "list_price": 148194,
+      "equipment": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-06 15:14:50"
+      }
+    }
+  ]
 }
