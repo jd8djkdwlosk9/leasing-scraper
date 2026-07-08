@@ -95,7 +95,7 @@
         "matches": false,
         "color": null,
         "features": [],
-        "checked_at": "2026-07-07 07:30:34"
+        "checked_at": "2026-07-08 07:16:10"
     },
     "goleasy.de::8dd2b186-7091-40fa-8b98-8a2ec58f5a69_0ff4376f-9ec7-4c99-b5c1-7c1623337c49": {
         "status": "unknown",
@@ -702,5 +702,47 @@
         "color": "Schwarz",
         "features": [],
         "checked_at": "2026-07-07 18:01:19"
+    },
+    "goleasy.de::1a9a2e12-210f-46be-94d0-b42ce735d531_4a817792-4439-496b-96a8-ec51fc728606": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-08 07:16:07"
+    },
+    "goleasy.de::5f4e52af-0cf7-4561-b271-e7a4197dae9c_3175a939-bc71-4ec7-bdbd-182f44f34f68": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-08 07:16:07"
+    },
+    "goleasy.de::492e7589-3d80-4412-abd1-2a79192a7c05_c900e869-77cb-4287-a3a1-deb8638b98ff": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-08 07:16:08"
+    },
+    "goleasy.de::8f0028b4-e78b-4c31-b40b-d74519516965_9110105e-5bc9-428b-9631-7cd39c897d7d": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-07-08 07:16:08"
+    },
+    "goleasy.de::2e588415-05ae-4b1a-b487-9ce3fbf94f17_15f2b036-b123-47f2-9c07-43dfe493b701": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-08 07:16:08"
+    },
+    "goleasy.de::8b73a189-5289-4b84-afd0-7e3821ca10d7_d78211f3-a2b1-40b2-8fa0-6c8899362186": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-08 07:16:09"
     }
 }
