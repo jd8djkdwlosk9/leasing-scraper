@@ -744,5 +744,12 @@
         "color": "Blau",
         "features": [],
         "checked_at": "2026-07-08 07:16:09"
+    },
+    "leasingmarkt.de::lm_13026346": {
+        "status": "reject",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-08 09:15:48"
     }
 }

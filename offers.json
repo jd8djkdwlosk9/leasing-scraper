@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-08T06:16:06+00:00",
-    "count": 29,
+    "generated": "2026-07-08T07:15:48+00:00",
+    "count": 30,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -276,6 +276,21 @@
                 "color": null,
                 "features": [],
                 "checked_at": "2026-07-08 07:16:10"
+            }
+        },
+        {
+            "source": "leasingmarkt.de",
+            "id": "lm_13026346",
+            "title": "BMW ix xDrive45 ❗️0,25%❗️ Sofort Verfügbar/M-Sport/AHK/360°/Head-Up/DrivingAss.Prof./Autobahnass./HK/❗️NP: (30M / 5.000 km/Jahr)",
+            "price": "759,00 €/mtl.",
+            "url": "https://www.leasingmarkt.de/leasing/pkw/bmw-ix/13026346?adVariant=35318277",
+            "image": "https://www.leasingmarkt.de/data/resized/V1_296168892_600x450_0.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-08 09:15:48"
             }
         },
         {
