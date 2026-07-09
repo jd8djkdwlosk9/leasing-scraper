@@ -1,10 +1,9 @@
 name: Scrape Leasing
 
 on:
-  schedule:
-    # ~2x pro Stunde, UTC. Deckt ca. 07–20 Uhr Berlin ab (Sommer/Winter mit Rand).
-    # Die Nachtruhe erzwingt zusätzlich scrape_export.php in Berlin-Zeit.
-    - cron: '17,47 5-18 * * *'
+  # Kein GitHub-eigener Zeitplan mehr: ap86 stößt den Lauf zuverlässig selbst an
+  # (workflow_dispatch, 2×/Std tagsüber). Der frühere schedule-Trigger führte zu
+  # Kollisionen mit ap86s Auslösern → abgebrochene ("failed") Läufe.
   workflow_dispatch:
     inputs:
       force:
