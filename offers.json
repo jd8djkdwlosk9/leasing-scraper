@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-10T17:30:19+00:00",
-    "count": 26,
+    "generated": "2026-07-11T05:16:06+00:00",
+    "count": 27,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -140,7 +140,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:05"
             }
         },
         {
@@ -170,7 +170,7 @@
                 "matches": false,
                 "color": null,
                 "features": [],
-                "checked_at": "2026-07-10 19:15:30"
+                "checked_at": "2026-07-11 07:16:05"
             }
         },
         {
@@ -185,7 +185,22 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 19:15:31"
+                "checked_at": "2026-07-11 07:16:06"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "5f4e52af-0cf7-4561-b271-e7a4197dae9c_fd656b47-8010-4a33-b9da-ee3134f1f009",
+            "title": "BMW iX xDrive45 AHK Driv.Assist+ Harman/K Kamera Len",
+            "price": "672,78 €/mtl.",
+            "url": "https://www.goleasy.de/forward/5f4e52af-0cf7-4561-b271-e7a4197dae9c/leasing/fd656b47-8010-4a33-b9da-ee3134f1f009?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/18/18b5130b-60af-4169-9d5b-772b5556bdaa?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
@@ -268,7 +283,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
@@ -285,7 +300,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
@@ -336,7 +351,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
@@ -353,7 +368,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
@@ -370,7 +385,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
@@ -404,7 +419,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-10 07:30:29"
+                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
