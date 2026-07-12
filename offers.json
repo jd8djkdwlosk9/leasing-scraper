@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-11T17:45:57+00:00",
-    "count": 27,
+    "generated": "2026-07-12T05:00:59+00:00",
+    "count": 28,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -98,7 +98,7 @@
             "source": "toprate24.de",
             "id": "608452",
             "title": "BMW iX xDrive45 M Sportpaket Neues Modell! AHK ACC P",
-            "price": "748,– €/mtl.",
+            "price": "743,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__608452.php",
             "image": "https://img.autrado.de/2216/18338985_640.jpg",
             "equipment": {
@@ -115,7 +115,7 @@
             "source": "toprate24.de",
             "id": "615835",
             "title": "BMW iX M70 xDrive NP 144055.- AHK Pano B&W HuD ACC",
-            "price": "1.018,– €/mtl.",
+            "price": "989,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__615835.php",
             "image": "https://img.autrado.de/2216/18409614_640.jpg",
             "equipment": {
@@ -201,6 +201,21 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-07-11 07:16:06"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "4ba1bc3b-4799-4c85-8a31-2819ba95ee4c_8cbd1d32-2691-4117-a810-516c7379c310",
+            "title": "BMW iX xDrive45 Driv.Assist+ Harman/K Kamera LED",
+            "price": "683,27 €/mtl.",
+            "url": "https://www.goleasy.de/forward/4ba1bc3b-4799-4c85-8a31-2819ba95ee4c/leasing/8cbd1d32-2691-4117-a810-516c7379c310?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/63/63793fe8-7237-4d0e-aa58-e89f42547b4b?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-12 07:00:59"
             }
         },
         {

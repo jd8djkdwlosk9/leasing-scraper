@@ -793,5 +793,12 @@
         "color": "Weiß",
         "features": [],
         "checked_at": "2026-07-11 07:16:06"
+    },
+    "goleasy.de::4ba1bc3b-4799-4c85-8a31-2819ba95ee4c_8cbd1d32-2691-4117-a810-516c7379c310": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-12 07:00:59"
     }
 }
