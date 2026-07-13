@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-13T17:15:54+00:00",
-    "count": 29,
+    "generated": "2026-07-13T17:45:39+00:00",
+    "count": 28,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -156,21 +156,6 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-07-06 14:39:21"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "e9eae73f-b421-4904-abb2-7c4dd831c7b7_f4cbc1e5-2801-4948-a889-da9873d8fcfd",
-            "title": "BMW iX xDrive50 Standardausstattung",
-            "price": "641,01 €/mtl.",
-            "url": "https://www.goleasy.de/forward/e9eae73f-b421-4904-abb2-7c4dd831c7b7/leasing/f4cbc1e5-2801-4948-a889-da9873d8fcfd?source=redirect",
-            "image": "",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": null,
-                "features": [],
-                "checked_at": "2026-07-13 19:15:54"
             }
         },
         {
