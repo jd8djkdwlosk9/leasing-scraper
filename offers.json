@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-14T17:15:35+00:00",
-    "count": 28,
+    "generated": "2026-07-14T17:45:48+00:00",
+    "count": 29,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -140,7 +140,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:47"
             }
         },
         {
@@ -170,7 +170,22 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "9a29bbd7-4c35-4c7f-912f-2d20c6d55d1c_62ee5117-092e-4502-b785-de91b97b0af3",
+            "title": "BMW iX xDrive45 M Sport AHK DA Prof PA Prof Autobahn",
+            "price": "669,29 €/mtl.",
+            "url": "https://www.goleasy.de/forward/9a29bbd7-4c35-4c7f-912f-2d20c6d55d1c/leasing/62ee5117-092e-4502-b785-de91b97b0af3?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/16/1678a34b-54ef-4f72-b3c7-3acde0bd71fb?rule=mo-640.jpg",
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {
@@ -302,7 +317,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {
@@ -319,7 +334,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {
@@ -370,7 +385,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {
@@ -387,7 +402,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {
@@ -404,7 +419,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {
@@ -438,7 +453,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-14 07:16:22"
+                "checked_at": "2026-07-14 19:45:48"
             }
         },
         {

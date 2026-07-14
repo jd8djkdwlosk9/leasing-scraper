@@ -74,7 +74,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:47"
     },
     "goleasy.de::c98f3610-8beb-4ee4-af9f-5ac301c25df9_fb60ab11-753a-445c-a718-7fc426e5818b": {
         "status": "reject",
@@ -568,14 +568,14 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "mister-leasing.de::7pE942S": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "mister-leasing.de::552H7Le": {
         "status": "reject",
@@ -596,28 +596,28 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "mister-leasing.de::1L65B8l": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "mister-leasing.de::26PiL25": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "mister-leasing.de::W8ew210": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "mister-leasing.de::7p180aB": {
         "status": "reject",
@@ -778,7 +778,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-14 07:16:22"
+        "checked_at": "2026-07-14 19:45:48"
     },
     "goleasy.de::329d96f5-68b0-4af8-a750-b03dede37b0c_038216ac-a00e-40b8-90fb-be75c9ee4e00": {
         "status": "reject",
@@ -818,5 +818,12 @@
         "color": "Blau",
         "features": [],
         "checked_at": "2026-07-14 07:16:22"
+    },
+    "goleasy.de::9a29bbd7-4c35-4c7f-912f-2d20c6d55d1c_62ee5117-092e-4502-b785-de91b97b0af3": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-14 19:45:48"
     }
 }
