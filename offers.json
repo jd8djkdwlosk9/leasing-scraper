@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-15T13:45:43+00:00",
-    "count": 27,
+    "generated": "2026-07-15T14:15:45+00:00",
+    "count": 28,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -58,6 +58,44 @@
         },
         {
             "source": "ohne-anzahlung.de",
+            "id": "7465899",
+            "title": "BMW i7 M70 xDrive Limousine /",
+            "price": "915,11 €/mtl.",
+            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465899/",
+            "image": "https://assets.ohne-anzahlung.de/media/cache/ac/40/ac400284b95d7e8720c225578c336021@1x.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 14:39:16"
+            }
+        },
+        {
+            "source": "ohne-anzahlung.de",
+            "id": "7419144",
+            "title": "BMW i7 M70 xDrive Limousine",
+            "price": "927,01 €/mtl.",
+            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7419144/",
+            "image": "https://assets.ohne-anzahlung.de/media/cache/d0/d5/d0d53211bbb7e8097c9263c36cbecd6d@1x.jpg",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-15 16:15:45"
+            }
+        },
+        {
+            "source": "ohne-anzahlung.de",
             "id": "7465900",
             "title": "BMW i7 M70 xDrive Limousine",
             "price": "950,81 €/mtl.",
@@ -73,25 +111,6 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:15"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7465899",
-            "title": "BMW i7 M70 xDrive Limousine /",
-            "price": "950,81 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465899/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/ac/40/ac400284b95d7e8720c225578c336021@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:16"
             }
         },
         {
