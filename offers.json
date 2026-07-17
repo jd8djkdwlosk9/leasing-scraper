@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-17T10:30:27+00:00",
-    "count": 25,
+    "generated": "2026-07-17T11:30:27+00:00",
+    "count": 24,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -188,25 +188,6 @@
                 "color": "Blau",
                 "features": [],
                 "checked_at": "2026-07-14 07:16:22"
-            }
-        },
-        {
-            "source": "leasingmarkt.de",
-            "id": "lm_12806915",
-            "title": "BMW ix iX xDrive45 M Sport AHK DA Prof PA Prof Autobahnassistent (27M / 5.000 km/Jahr)",
-            "price": "701,39 €/mtl.",
-            "url": "https://www.leasingmarkt.de/leasing/pkw/bmw-ix/12806915?adVariant=35340989",
-            "image": "https://www.leasingmarkt.de/data/resized/V1_278713753_600x450_2.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:22"
             }
         },
         {
