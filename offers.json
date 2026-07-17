@@ -1,24 +1,7 @@
 {
-    "generated": "2026-07-16T17:15:21+00:00",
-    "count": 27,
+    "generated": "2026-07-17T05:00:53+00:00",
+    "count": 25,
     "offers": [
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7437980",
-            "title": "BMW iX xDrive45",
-            "price": "601,55 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7437980/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/58/0d/580d140e02e1dce302822ef28b262f3a@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [
-                    "Driving Assistent Professional"
-                ],
-                "checked_at": "2026-07-06 14:39:11"
-            }
-        },
         {
             "source": "ohne-anzahlung.de",
             "id": "7411649",
@@ -117,7 +100,7 @@
             "source": "toprate24.de",
             "id": "608452",
             "title": "BMW iX xDrive45 M Sportpaket Neues Modell! AHK ACC P",
-            "price": "743,– €/mtl.",
+            "price": "741,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__608452.php",
             "image": "https://img.autrado.de/2216/18338985_640.jpg",
             "equipment": {
@@ -175,21 +158,6 @@
                 "color": "Schwarz",
                 "features": [],
                 "checked_at": "2026-07-16 19:15:21"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "5f4e52af-0cf7-4561-b271-e7a4197dae9c_fd656b47-8010-4a33-b9da-ee3134f1f009",
-            "title": "BMW iX xDrive45 AHK Driv.Assist+ Harman/K Kamera Len",
-            "price": "672,78 €/mtl.",
-            "url": "https://www.goleasy.de/forward/5f4e52af-0cf7-4561-b271-e7a4197dae9c/leasing/fd656b47-8010-4a33-b9da-ee3134f1f009?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/18/18b5130b-60af-4169-9d5b-772b5556bdaa?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-11 07:16:06"
             }
         },
         {
