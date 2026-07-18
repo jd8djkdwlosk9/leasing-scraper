@@ -836,5 +836,12 @@
             "Innovation Paket"
         ],
         "checked_at": "2026-07-15 16:15:45"
+    },
+    "goleasy.de::4ba1bc3b-4799-4c85-8a31-2819ba95ee4c_92fbd087-ad52-4a48-a7bf-17e00b4e5272": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-07-18 07:00:41"
     }
 }
