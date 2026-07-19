@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-19T08:30:33+00:00",
-    "count": 24,
+    "generated": "2026-07-19T09:01:21+00:00",
+    "count": 25,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -18,6 +18,23 @@
                     "Parking Assistent Professional"
                 ],
                 "checked_at": "2026-07-19 09:30:49"
+            }
+        },
+        {
+            "source": "ohne-anzahlung.de",
+            "id": "7475125",
+            "title": "BMW iX xDrive50",
+            "price": "474,81 €/mtl.",
+            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7475125/",
+            "image": "https://assets.ohne-anzahlung.de/media/cache/ba/20/ba205a3b3f1689ba3450eaf58f8e37a5@1x.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Rot",
+                "features": [
+                    "Driving Assistent Professional"
+                ],
+                "checked_at": "2026-07-19 11:01:21"
             }
         },
         {

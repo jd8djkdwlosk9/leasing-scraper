@@ -864,5 +864,14 @@
             "Parking Assistent Professional"
         ],
         "checked_at": "2026-07-19 09:30:49"
+    },
+    "ohne-anzahlung.de::7475125": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [
+            "Driving Assistent Professional"
+        ],
+        "checked_at": "2026-07-19 11:01:21"
     }
 }
