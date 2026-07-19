@@ -854,5 +854,15 @@
             "Innovation Paket"
         ],
         "checked_at": "2026-07-18 18:01:01"
+    },
+    "ohne-anzahlung.de::7474063": {
+        "status": "match",
+        "matches": true,
+        "color": "Schwarz",
+        "features": [
+            "Driving Assistent Professional",
+            "Parking Assistent Professional"
+        ],
+        "checked_at": "2026-07-19 09:30:49"
     }
 }

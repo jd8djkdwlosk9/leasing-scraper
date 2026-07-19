@@ -1,7 +1,25 @@
 {
-    "generated": "2026-07-19T07:00:24+00:00",
-    "count": 23,
+    "generated": "2026-07-19T07:30:49+00:00",
+    "count": 24,
     "offers": [
+        {
+            "source": "ohne-anzahlung.de",
+            "id": "7474063",
+            "title": "BMW iX xDrive40",
+            "price": "439,90 €/mtl.",
+            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7474063/",
+            "image": "https://assets.ohne-anzahlung.de/media/cache/a0/92/a092b5707937fbc7e55b76399c876a71@1x.jpg",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional"
+                ],
+                "checked_at": "2026-07-19 09:30:49"
+            }
+        },
         {
             "source": "ohne-anzahlung.de",
             "id": "7411649",
