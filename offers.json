@@ -1,12 +1,12 @@
 {
-    "generated": "2026-07-21T08:45:30+00:00",
-    "count": 25,
+    "generated": "2026-07-22T12:00:55+00:00",
+    "count": 23,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
             "id": "7474063",
             "title": "BMW iX xDrive40",
-            "price": "439,90 €/mtl.",
+            "price": "439,11 €/mtl.",
             "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7474063/",
             "image": "https://assets.ohne-anzahlung.de/media/cache/a0/92/a092b5707937fbc7e55b76399c876a71@1x.jpg",
             "equipment": {
@@ -35,25 +35,6 @@
                     "Driving Assistent Professional"
                 ],
                 "checked_at": "2026-07-19 11:01:21"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7438205",
-            "title": "BMW iX xDrive60",
-            "price": "700,91 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7438205/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/24/50/2450241861a01d6aee78813ddec971f1@1x.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-20 18:45:45"
             }
         },
         {
@@ -97,7 +78,7 @@
             "source": "ohne-anzahlung.de",
             "id": "7465899",
             "title": "BMW i7 M70 xDrive Limousine /",
-            "price": "915,11 €/mtl.",
+            "price": "898,45 €/mtl.",
             "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465899/",
             "image": "https://assets.ohne-anzahlung.de/media/cache/ac/40/ac400284b95d7e8720c225578c336021@1x.jpg",
             "equipment": {
@@ -110,25 +91,6 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:16"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7419144",
-            "title": "BMW i7 M70 xDrive Limousine",
-            "price": "927,01 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7419144/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/d0/d5/d0d53211bbb7e8097c9263c36cbecd6d@1x.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-15 16:15:45"
             }
         },
         {
@@ -171,7 +133,7 @@
             "source": "toprate24.de",
             "id": "615835",
             "title": "BMW iX M70 xDrive NP 144055.- AHK Pano B&W HuD ACC",
-            "price": "988,– €/mtl.",
+            "price": "985,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__615835.php",
             "image": "https://img.autrado.de/2216/18409614_640.jpg",
             "equipment": {
@@ -196,7 +158,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-21 10:45:30"
+                "checked_at": "2026-07-22 14:00:55"
             }
         },
         {
@@ -264,7 +226,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-21 10:45:30"
+                "checked_at": "2026-07-22 14:00:55"
             }
         },
         {
@@ -281,7 +243,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-21 10:45:30"
+                "checked_at": "2026-07-22 14:00:55"
             }
         },
         {
@@ -332,7 +294,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-21 10:45:30"
+                "checked_at": "2026-07-22 14:00:55"
             }
         },
         {
@@ -349,7 +311,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-21 10:45:30"
+                "checked_at": "2026-07-22 14:00:55"
             }
         },
         {
@@ -366,7 +328,24 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-21 10:45:30"
+                "checked_at": "2026-07-22 14:00:55"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "W8ew210",
+            "title": "BMW iX xDrive60 – 544 PS",
+            "price": "713,00 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
+            "color": "Schwarz",
+            "list_price": 122740,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-22 14:00:55"
             }
         },
         {
@@ -384,23 +363,6 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "W8ew210",
-            "title": "BMW iX xDrive60 – 544 PS",
-            "price": "713,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
-            "color": "Schwarz",
-            "list_price": 122740,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-21 10:45:30"
             }
         },
         {
