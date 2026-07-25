@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-24T12:16:02+00:00",
-    "count": 22,
+    "generated": "2026-07-25T09:45:59+00:00",
+    "count": 21,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -72,25 +72,6 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:13"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7427722",
-            "title": "BMW iX M70 xDrive",
-            "price": "769,00 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7427722/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/5e/cc/5ecc51ac875c36de482b71db4b6b97f0@1x.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:14"
             }
         },
         {
@@ -177,7 +158,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
@@ -211,7 +192,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
@@ -228,7 +209,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
@@ -279,7 +260,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
@@ -296,7 +277,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
@@ -313,7 +294,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
@@ -347,7 +328,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-24 14:16:02"
+                "checked_at": "2026-07-25 11:45:59"
             }
         },
         {
