@@ -1,6 +1,6 @@
 {
-    "generated": "2026-07-28T08:30:40+00:00",
-    "count": 20,
+    "generated": "2026-07-29T15:19:45+00:00",
+    "count": 21,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -81,7 +81,7 @@
             "source": "toprate24.de",
             "id": "608452",
             "title": "BMW iX xDrive45 M Sportpaket Neues Modell! AHK ACC P",
-            "price": "738,– €/mtl.",
+            "price": "723,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__608452.php",
             "image": "https://img.autrado.de/2216/18338985_640.jpg",
             "equipment": {
@@ -92,6 +92,23 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:18"
+            }
+        },
+        {
+            "source": "toprate24.de",
+            "id": "625923",
+            "title": "BMW iX xDrive45 M Sportpaket",
+            "price": "827,– €/mtl.",
+            "url": "https://www.toprate24.de/bmw-ix-leasing-x__625923.php",
+            "image": "https://img.autrado.de/2216/18514978_640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-29 17:19:44"
             }
         },
         {
@@ -113,32 +130,32 @@
         },
         {
             "source": "goleasy.de",
-            "id": "b54b00d1-debd-45b1-a10f-b1dc20d4e20d_3cae2e1c-f280-4a14-b1aa-a67052141d08",
+            "id": "a701f9e3-d703-4ca0-a54a-139caf968289_9cf692e7-b22a-4eee-8b18-38df7e6f50f9",
             "title": "BMW iX xDrive40 Sport SkyLounge Laser DA/PA-Pro H/K",
             "price": "529,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/b54b00d1-debd-45b1-a10f-b1dc20d4e20d/leasing/3cae2e1c-f280-4a14-b1aa-a67052141d08?source=redirect",
+            "url": "https://www.goleasy.de/forward/a701f9e3-d703-4ca0-a54a-139caf968289/leasing/9cf692e7-b22a-4eee-8b18-38df7e6f50f9?source=redirect",
             "image": "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7265f21-5b32-4562-8547-e6d84226f913?rule=mo-640.jpg",
             "equipment": {
                 "status": "unknown",
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
             "source": "goleasy.de",
-            "id": "f3ff31e5-5649-431e-916a-395316e5f336_985525d9-c4e9-4f52-8bb9-5378f16d371b",
+            "id": "9ca484d2-187b-4f94-aecc-bf5d6164be03_93d7d5af-57a0-48ac-b1b1-0d8444f86c4f",
             "title": "BMW iX xDrive45 M-Sport-Pro SkyLounge AHK DA/PA-Pro",
             "price": "619,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/f3ff31e5-5649-431e-916a-395316e5f336/leasing/985525d9-c4e9-4f52-8bb9-5378f16d371b?source=redirect",
+            "url": "https://www.goleasy.de/forward/9ca484d2-187b-4f94-aecc-bf5d6164be03/leasing/93d7d5af-57a0-48ac-b1b1-0d8444f86c4f?source=redirect",
             "image": "https://img.classistatic.de/api/v1/mo-prod/images/f0/f0a3ae3f-3d53-42fe-832d-6a88a96a0c5d?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
                 "color": "Blau",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
@@ -172,7 +189,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
@@ -189,24 +206,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "6W7X3i6",
-            "title": "BMW iX xDrive60 M Sport – 544 PS",
-            "price": "593,81 €/mtl. (24M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
-            "color": "Weiß",
-            "list_price": 121929,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
@@ -218,6 +218,23 @@
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
             "color": "Weiß",
             "list_price": 101069,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "6W7X3i6",
+            "title": "BMW iX xDrive60 M Sport – 544 PS",
+            "price": "593,81 €/mtl. (24M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
+            "color": "Weiß",
+            "list_price": 121929,
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -240,7 +257,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
@@ -257,7 +274,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
@@ -274,7 +291,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {
@@ -308,7 +325,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-28 10:30:40"
+                "checked_at": "2026-07-29 17:19:45"
             }
         },
         {

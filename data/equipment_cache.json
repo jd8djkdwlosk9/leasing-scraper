@@ -568,14 +568,14 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-28 10:30:40"
+        "checked_at": "2026-07-29 17:19:45"
     },
     "mister-leasing.de::7pE942S": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-28 10:30:40"
+        "checked_at": "2026-07-29 17:19:45"
     },
     "mister-leasing.de::552H7Le": {
         "status": "reject",
@@ -596,28 +596,28 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-28 10:30:40"
+        "checked_at": "2026-07-29 17:19:45"
     },
     "mister-leasing.de::1L65B8l": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-28 10:30:40"
+        "checked_at": "2026-07-29 17:19:45"
     },
     "mister-leasing.de::26PiL25": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-28 10:30:40"
+        "checked_at": "2026-07-29 17:19:45"
     },
     "mister-leasing.de::W8ew210": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-07-28 10:30:40"
+        "checked_at": "2026-07-29 17:19:45"
     },
     "mister-leasing.de::7p180aB": {
         "status": "reject",
@@ -891,5 +891,28 @@
         "color": "Blau",
         "features": [],
         "checked_at": "2026-07-28 10:30:40"
+    },
+    "toprate24.de::625923": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-07-29 17:19:44"
+    },
+    "goleasy.de::a701f9e3-d703-4ca0-a54a-139caf968289_9cf692e7-b22a-4eee-8b18-38df7e6f50f9": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-07-29 17:19:45"
+    },
+    "goleasy.de::9ca484d2-187b-4f94-aecc-bf5d6164be03_93d7d5af-57a0-48ac-b1b1-0d8444f86c4f": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-07-29 17:19:45"
     }
 }
