@@ -1,26 +1,7 @@
 {
-    "generated": "2026-07-30T10:31:19+00:00",
-    "count": 21,
+    "generated": "2026-07-31T11:31:20+00:00",
+    "count": 18,
     "offers": [
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7438205",
-            "title": "BMW iX xDrive60",
-            "price": "653,31 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7438205/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/24/50/2450241861a01d6aee78813ddec971f1@1x.jpg",
-            "equipment": {
-                "status": "match",
-                "matches": true,
-                "color": "Schwarz",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-20 18:45:45"
-            }
-        },
         {
             "source": "ohne-anzahlung.de",
             "id": "7411649",
@@ -129,36 +110,6 @@
             }
         },
         {
-            "source": "goleasy.de",
-            "id": "a701f9e3-d703-4ca0-a54a-139caf968289_9cf692e7-b22a-4eee-8b18-38df7e6f50f9",
-            "title": "BMW iX xDrive40 Sport SkyLounge Laser DA/PA-Pro H/K",
-            "price": "529,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/a701f9e3-d703-4ca0-a54a-139caf968289/leasing/9cf692e7-b22a-4eee-8b18-38df7e6f50f9?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7265f21-5b32-4562-8547-e6d84226f913?rule=mo-640.jpg",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-30 12:31:19"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "9ca484d2-187b-4f94-aecc-bf5d6164be03_93d7d5af-57a0-48ac-b1b1-0d8444f86c4f",
-            "title": "BMW iX xDrive45 M-Sport-Pro SkyLounge AHK DA/PA-Pro",
-            "price": "619,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/9ca484d2-187b-4f94-aecc-bf5d6164be03/leasing/93d7d5af-57a0-48ac-b1b1-0d8444f86c4f?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/f0/f0a3ae3f-3d53-42fe-832d-6a88a96a0c5d?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [],
-                "checked_at": "2026-07-29 17:19:45"
-            }
-        },
-        {
             "source": "mister-leasing.de",
             "id": "I42My59",
             "title": "BMW iX xDrive45 – 408 PS",
@@ -189,7 +140,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-30 12:31:19"
+                "checked_at": "2026-07-31 13:31:20"
             }
         },
         {
@@ -206,7 +157,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-30 12:31:19"
+                "checked_at": "2026-07-31 13:31:20"
             }
         },
         {
@@ -257,7 +208,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-30 12:31:19"
+                "checked_at": "2026-07-31 13:31:20"
             }
         },
         {
@@ -274,7 +225,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-30 12:31:19"
+                "checked_at": "2026-07-31 13:31:20"
             }
         },
         {
@@ -291,7 +242,24 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-07-30 12:31:19"
+                "checked_at": "2026-07-31 13:31:20"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "W8ew210",
+            "title": "BMW iX xDrive60 – 544 PS",
+            "price": "713,00 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
+            "color": "Schwarz",
+            "list_price": 122740,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-07-31 13:31:20"
             }
         },
         {
@@ -309,23 +277,6 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "W8ew210",
-            "title": "BMW iX xDrive60 – 544 PS",
-            "price": "713,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
-            "color": "Schwarz",
-            "list_price": 122740,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-07-30 12:31:19"
             }
         },
         {
