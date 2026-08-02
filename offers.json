@@ -1,6 +1,6 @@
 {
-    "generated": "2026-08-01T13:46:01+00:00",
-    "count": 20,
+    "generated": "2026-08-02T10:30:59+00:00",
+    "count": 17,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -18,44 +18,6 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:13"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7465899",
-            "title": "BMW i7 M70 xDrive Limousine /",
-            "price": "898,45 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465899/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/ac/40/ac400284b95d7e8720c225578c336021@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:16"
-            }
-        },
-        {
-            "source": "ohne-anzahlung.de",
-            "id": "7465900",
-            "title": "BMW i7 M70 xDrive Limousine",
-            "price": "950,81 €/mtl.",
-            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7465900/",
-            "image": "https://assets.ohne-anzahlung.de/media/cache/da/c7/dac73e445c8a65923677967dece00607@1x.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [
-                    "Driving Assistent Professional",
-                    "Parking Assistent Professional",
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-07-06 14:39:15"
             }
         },
         {
@@ -121,22 +83,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:00"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "c3952e3f-18f7-4a6a-b59e-4ca3eee06b98_ba928fe5-b544-4033-86bd-58f7c275ee36",
-            "title": "BMW iX xDrive60 M Sport AHK Driv.Assist.Prof Kamera",
-            "price": "685,67 €/mtl.",
-            "url": "https://www.goleasy.de/forward/c3952e3f-18f7-4a6a-b59e-4ca3eee06b98/leasing/ba928fe5-b544-4033-86bd-58f7c275ee36?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/68/68d5de83-d0fa-4114-a4d3-14d73d0ddb60?rule=mo-640.jpg",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
@@ -170,7 +117,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
@@ -187,7 +134,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
@@ -238,7 +185,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
@@ -255,7 +202,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
@@ -272,7 +219,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
@@ -289,7 +236,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-01 15:46:01"
+                "checked_at": "2026-08-02 12:30:59"
             }
         },
         {
