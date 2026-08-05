@@ -1,6 +1,6 @@
 {
-    "generated": "2026-08-05T09:10:34+00:00",
-    "count": 17,
+    "generated": "2026-08-05T09:32:20+00:00",
+    "count": 18,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -18,6 +18,25 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:13"
+            }
+        },
+        {
+            "source": "ohne-anzahlung.de",
+            "id": "7427722",
+            "title": "BMW iX M70 xDrive",
+            "price": "712,81 €/mtl.",
+            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix-m70/7427722/",
+            "image": "https://assets.ohne-anzahlung.de/media/cache/5e/cc/5ecc51ac875c36de482b71db4b6b97f0@1x.jpg",
+            "equipment": {
+                "status": "match",
+                "matches": true,
+                "color": "Schwarz",
+                "features": [
+                    "Driving Assistent Professional",
+                    "Parking Assistent Professional",
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-07-06 14:39:14"
             }
         },
         {
