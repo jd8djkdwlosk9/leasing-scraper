@@ -1,7 +1,24 @@
 {
-    "generated": "2026-08-08T13:30:27+00:00",
-    "count": 18,
+    "generated": "2026-08-09T15:16:07+00:00",
+    "count": 19,
     "offers": [
+        {
+            "source": "ohne-anzahlung.de",
+            "id": "7487486",
+            "title": "BMW iX xDrive50",
+            "price": "474,81 €/mtl.",
+            "url": "https://www.ohne-anzahlung.de/bmw-leasing/bmw-ix/7487486/",
+            "image": "https://assets.ohne-anzahlung.de/media/cache/13/43/134382eacd3bd86f7bee6ed46f68c203@1x.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [
+                    "Driving Assistent Professional"
+                ],
+                "checked_at": "2026-08-09 17:16:06"
+            }
+        },
         {
             "source": "ohne-anzahlung.de",
             "id": "7486266",
@@ -102,7 +119,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-08 15:30:27"
+                "checked_at": "2026-08-09 17:16:07"
             }
         },
         {
@@ -136,7 +153,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-08 15:30:27"
+                "checked_at": "2026-08-09 17:16:07"
             }
         },
         {
@@ -153,7 +170,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-08 15:30:27"
+                "checked_at": "2026-08-09 17:16:07"
             }
         },
         {
@@ -204,7 +221,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-08 15:30:27"
+                "checked_at": "2026-08-09 17:16:07"
             }
         },
         {
@@ -221,7 +238,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-08 15:30:27"
+                "checked_at": "2026-08-09 17:16:07"
             }
         },
         {
@@ -238,7 +255,24 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-08 15:30:27"
+                "checked_at": "2026-08-09 17:16:07"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "W8ew210",
+            "title": "BMW iX xDrive60 – 544 PS",
+            "price": "713,00 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
+            "color": "Schwarz",
+            "list_price": 122740,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-08-09 17:16:07"
             }
         },
         {
@@ -256,23 +290,6 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-07-06 15:14:50"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "W8ew210",
-            "title": "BMW iX xDrive60 – 544 PS",
-            "price": "713,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
-            "color": "Schwarz",
-            "list_price": 122740,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-08-08 15:30:27"
             }
         },
         {
