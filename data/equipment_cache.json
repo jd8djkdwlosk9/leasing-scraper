@@ -568,14 +568,14 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-14 08:18:43"
+        "checked_at": "2026-08-15 12:00:36"
     },
     "mister-leasing.de::7pE942S": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-14 08:18:43"
+        "checked_at": "2026-08-15 12:00:36"
     },
     "mister-leasing.de::552H7Le": {
         "status": "reject",
@@ -596,28 +596,28 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-14 08:18:43"
+        "checked_at": "2026-08-15 12:00:36"
     },
     "mister-leasing.de::1L65B8l": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-14 08:18:43"
+        "checked_at": "2026-08-15 12:00:36"
     },
     "mister-leasing.de::26PiL25": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-14 08:18:43"
+        "checked_at": "2026-08-15 12:00:36"
     },
     "mister-leasing.de::W8ew210": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-14 08:18:43"
+        "checked_at": "2026-08-15 12:00:36"
     },
     "mister-leasing.de::7p180aB": {
         "status": "reject",
@@ -970,5 +970,12 @@
             "Innovation Paket"
         ],
         "checked_at": "2026-08-14 08:18:43"
+    },
+    "goleasy.de::b54b00d1-debd-45b1-a10f-b1dc20d4e20d_83edcea2-63ef-41b8-af53-02efa9e31e01": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-08-15 12:00:36"
     }
 }
