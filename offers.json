@@ -1,5 +1,5 @@
 {
-    "generated": "2026-08-23T08:45:39+00:00",
+    "generated": "2026-08-24T13:46:11+00:00",
     "count": 19,
     "offers": [
         {
@@ -84,7 +84,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
@@ -148,7 +148,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
@@ -165,24 +165,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "6W7X3i6",
-            "title": "BMW iX xDrive60 M Sport – 544 PS",
-            "price": "593,81 €/mtl. (24M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
-            "color": "Weiß",
-            "list_price": 121929,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
@@ -194,6 +177,23 @@
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
             "color": "Weiß",
             "list_price": 101069,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "6W7X3i6",
+            "title": "BMW iX xDrive60 M Sport – 544 PS",
+            "price": "593,81 €/mtl. (24M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
+            "color": "Weiß",
+            "list_price": 121929,
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -216,7 +216,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
@@ -233,7 +233,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
@@ -250,7 +250,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
@@ -267,7 +267,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-23 10:45:39"
+                "checked_at": "2026-08-24 15:46:11"
             }
         },
         {
