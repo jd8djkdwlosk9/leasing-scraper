@@ -1,6 +1,6 @@
 {
-    "generated": "2026-08-24T13:46:11+00:00",
-    "count": 19,
+    "generated": "2026-08-25T11:46:09+00:00",
+    "count": 20,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -42,7 +42,7 @@
             "source": "toprate24.de",
             "id": "625923",
             "title": "BMW iX xDrive45 M Sportpaket",
-            "price": "808,– €/mtl.",
+            "price": "797,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__625923.php",
             "image": "https://img.autrado.de/2216/18514978_640.jpg",
             "equipment": {
@@ -59,7 +59,7 @@
             "source": "toprate24.de",
             "id": "615835",
             "title": "BMW iX M70 xDrive NP 144055.- AHK Pano B&W HuD ACC",
-            "price": "947,– €/mtl.",
+            "price": "943,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__615835.php",
             "image": "https://img.autrado.de/2216/18409614_640.jpg",
             "equipment": {
@@ -84,7 +84,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -93,7 +93,7 @@
             "title": "BMW iX 45 M SPORT DAPr SKYLo AHK MultiSi Leas599,-oA",
             "price": "599,00 €/mtl.",
             "url": "https://www.goleasy.de/forward/b58f6898-9b3c-4fad-8b9d-a08f6470f578/leasing/d9cc7c8f-67ce-4aa6-b179-4b14b6d1dd00?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/1e/1e8bcd6e-7538-4e41-9fa8-d11bf99162d4?rule=mo-640.jpg",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/e5/e5f2aac4-7218-42c1-8bb2-b06906bb2398?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -115,6 +115,21 @@
                 "color": "Grau",
                 "features": [],
                 "checked_at": "2026-08-23 10:45:39"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "31934d66-3b5b-46a5-96c4-4fa723a90e47_38be4997-ba7d-4acd-a382-6c4e605e04b4",
+            "title": "BMW iX xDrive 45 LivePro,AdLED,AHK,St+Go,H/K,Alu21",
+            "price": "699,64 €/mtl.",
+            "url": "https://www.goleasy.de/forward/31934d66-3b5b-46a5-96c4-4fa723a90e47/leasing/38be4997-ba7d-4acd-a382-6c4e605e04b4?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/59/590f1645-0514-4d48-a8c7-9f33a7477e36?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -148,7 +163,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -165,24 +180,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "552H7Le",
-            "title": "BMW iX xDrive45 M Sport Pro (Facelift / LCI) – 408 PS",
-            "price": "593,81 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/552H7Le",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
-            "color": "Weiß",
-            "list_price": 101069,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -194,6 +192,23 @@
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
             "color": "Weiß",
             "list_price": 121929,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "552H7Le",
+            "title": "BMW iX xDrive45 M Sport Pro (Facelift / LCI) – 408 PS",
+            "price": "593,81 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/552H7Le",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
+            "color": "Weiß",
+            "list_price": 101069,
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -216,7 +231,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -233,7 +248,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -250,7 +265,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
@@ -267,7 +282,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-08-24 15:46:11"
+                "checked_at": "2026-08-25 13:46:09"
             }
         },
         {
