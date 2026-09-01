@@ -568,14 +568,14 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-31 16:00:45"
+        "checked_at": "2026-09-01 15:31:23"
     },
     "mister-leasing.de::7pE942S": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-31 16:00:45"
+        "checked_at": "2026-09-01 15:31:23"
     },
     "mister-leasing.de::552H7Le": {
         "status": "reject",
@@ -596,28 +596,28 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-31 16:00:45"
+        "checked_at": "2026-09-01 15:31:23"
     },
     "mister-leasing.de::1L65B8l": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-31 16:00:45"
+        "checked_at": "2026-09-01 15:31:23"
     },
     "mister-leasing.de::26PiL25": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-31 16:00:45"
+        "checked_at": "2026-09-01 15:31:23"
     },
     "mister-leasing.de::W8ew210": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-31 16:00:45"
+        "checked_at": "2026-09-01 15:31:23"
     },
     "mister-leasing.de::7p180aB": {
         "status": "reject",
@@ -976,7 +976,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-08-28 12:00:35"
+        "checked_at": "2026-09-01 15:31:22"
     },
     "goleasy.de::45ff1866-d1da-4282-bcc8-5c3f62d1fdf2_987d29d4-76e8-469a-9eba-27011ea54f84": {
         "status": "reject",
@@ -1019,5 +1019,26 @@
         "color": "Grau",
         "features": [],
         "checked_at": "2026-08-29 13:31:18"
+    },
+    "goleasy.de::eaf663f9-f7fc-4738-a9c7-014fe2e1c128_4e56d23f-2b88-43e1-b36b-6093ff8525ff": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [],
+        "checked_at": "2026-09-01 15:31:21"
+    },
+    "goleasy.de::52fd5de8-914d-46a4-8a71-cee094c997fb_a9bbf830-b769-4f27-b29f-f066a715376e": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-09-01 15:31:22"
+    },
+    "goleasy.de::8b73a189-5289-4b84-afd0-7e3821ca10d7_302e71fc-4c64-4729-90dc-0226aefaa8d7": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-09-01 15:31:23"
     }
 }
