@@ -1,6 +1,6 @@
 {
-    "generated": "2026-09-01T13:31:23+00:00",
-    "count": 21,
+    "generated": "2026-09-02T14:46:14+00:00",
+    "count": 22,
     "offers": [
         {
             "source": "ohne-anzahlung.de",
@@ -36,6 +36,23 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-08-14 08:18:43"
+            }
+        },
+        {
+            "source": "toprate24.de",
+            "id": "629066",
+            "title": "BMW iX M Sportpaket xDrive60 Sport PRO AHK ACC 22Zoll B&W HuD",
+            "price": "650,– €/mtl.",
+            "url": "https://www.toprate24.de/bmw-ix-leasing-x__629066.php",
+            "image": "https://img.autrado.de/2216/18554456_640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Orange",
+                "features": [
+                    "Innovation Paket"
+                ],
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -99,7 +116,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:22"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -178,7 +195,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:23"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -195,24 +212,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:23"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "6W7X3i6",
-            "title": "BMW iX xDrive60 M Sport – 544 PS",
-            "price": "593,81 €/mtl. (24M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
-            "color": "Weiß",
-            "list_price": 121929,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -224,6 +224,23 @@
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
             "color": "Weiß",
             "list_price": 101069,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "6W7X3i6",
+            "title": "BMW iX xDrive60 M Sport – 544 PS",
+            "price": "593,81 €/mtl. (24M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/6W7X3i6",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
+            "color": "Weiß",
+            "list_price": 121929,
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -246,7 +263,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:23"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -263,7 +280,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:23"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -280,7 +297,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:23"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
@@ -297,7 +314,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-01 15:31:23"
+                "checked_at": "2026-09-02 16:46:14"
             }
         },
         {
