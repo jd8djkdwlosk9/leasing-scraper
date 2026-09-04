@@ -568,14 +568,14 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-03 12:45:55"
+        "checked_at": "2026-09-04 14:15:56"
     },
     "mister-leasing.de::7pE942S": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-03 12:45:55"
+        "checked_at": "2026-09-04 14:15:56"
     },
     "mister-leasing.de::552H7Le": {
         "status": "reject",
@@ -596,28 +596,28 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-03 12:45:55"
+        "checked_at": "2026-09-04 14:15:56"
     },
     "mister-leasing.de::1L65B8l": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-03 12:45:55"
+        "checked_at": "2026-09-04 14:15:56"
     },
     "mister-leasing.de::26PiL25": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-03 12:45:55"
+        "checked_at": "2026-09-04 14:15:56"
     },
     "mister-leasing.de::W8ew210": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-03 12:45:55"
+        "checked_at": "2026-09-04 14:15:56"
     },
     "mister-leasing.de::7p180aB": {
         "status": "reject",
@@ -1049,5 +1049,19 @@
             "Innovation Paket"
         ],
         "checked_at": "2026-09-02 16:46:14"
+    },
+    "goleasy.de::52fd5de8-914d-46a4-8a71-cee094c997fb_c79a08e3-75c6-4ccd-ae54-2eeb214b6b0a": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-09-04 14:15:55"
+    },
+    "goleasy.de::8b73a189-5289-4b84-afd0-7e3821ca10d7_d94afda7-5afc-4d93-aea8-a213af75d9b9": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-09-04 14:15:56"
     }
 }
