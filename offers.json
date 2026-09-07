@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-06T14:15:42+00:00",
+    "generated": "2026-09-07T09:31:13+00:00",
     "count": 21,
     "offers": [
         {
@@ -182,7 +182,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-06 16:15:42"
+                "checked_at": "2026-09-07 11:31:13"
             }
         },
         {
@@ -199,24 +199,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-06 16:15:42"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "552H7Le",
-            "title": "BMW iX xDrive45 M Sport Pro (Facelift / LCI) – 408 PS",
-            "price": "593,81 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/552H7Le",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
-            "color": "Weiß",
-            "list_price": 101069,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-07-06 15:14:50"
+                "checked_at": "2026-09-07 11:31:13"
             }
         },
         {
@@ -228,6 +211,23 @@
             "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779912689437-knyo01.webp",
             "color": "Weiß",
             "list_price": 121929,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-07-06 15:14:50"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "552H7Le",
+            "title": "BMW iX xDrive45 M Sport Pro (Facelift / LCI) – 408 PS",
+            "price": "593,81 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/552H7Le",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1779464773961-dfs7a8.webp",
+            "color": "Weiß",
+            "list_price": 101069,
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -250,7 +250,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-06 16:15:42"
+                "checked_at": "2026-09-07 11:31:13"
             }
         },
         {
@@ -267,7 +267,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-06 16:15:42"
+                "checked_at": "2026-09-07 11:31:13"
             }
         },
         {
@@ -284,7 +284,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-06 16:15:42"
+                "checked_at": "2026-09-07 11:31:13"
             }
         },
         {
@@ -301,7 +301,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-06 16:15:42"
+                "checked_at": "2026-09-07 11:31:13"
             }
         },
         {
