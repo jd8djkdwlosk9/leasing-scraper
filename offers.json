@@ -1,5 +1,5 @@
 {
-    "generated": "2026-09-09T10:01:18+00:00",
+    "generated": "2026-09-10T11:16:20+00:00",
     "count": 16,
     "offers": [
         {
@@ -23,7 +23,7 @@
             "source": "toprate24.de",
             "id": "615835",
             "title": "BMW iX M70 xDrive NP 144055.- AHK Pano B&W HuD ACC",
-            "price": "983,– €/mtl.",
+            "price": "982,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__615835.php",
             "image": "https://img.autrado.de/2216/18409614_640.jpg",
             "equipment": {
@@ -97,7 +97,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-09 12:01:18"
+                "checked_at": "2026-09-10 13:16:20"
             }
         },
         {
@@ -114,7 +114,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-09 12:01:18"
+                "checked_at": "2026-09-10 13:16:20"
             }
         },
         {
@@ -165,7 +165,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-09 12:01:18"
+                "checked_at": "2026-09-10 13:16:20"
             }
         },
         {
@@ -182,7 +182,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-09 12:01:18"
+                "checked_at": "2026-09-10 13:16:20"
             }
         },
         {
@@ -199,24 +199,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-09 12:01:18"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
-            "id": "W8ew210",
-            "title": "BMW iX xDrive60 – 544 PS",
-            "price": "713,00 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
-            "color": "Schwarz",
-            "list_price": 122740,
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-09-09 12:01:18"
+                "checked_at": "2026-09-10 13:16:20"
             }
         },
         {
@@ -234,6 +217,23 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-07-06 15:14:50"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "W8ew210",
+            "title": "BMW iX xDrive60 – 544 PS",
+            "price": "713,00 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/W8ew210",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1780660100481-dd2dbg.webp",
+            "color": "Schwarz",
+            "list_price": 122740,
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-09-10 13:16:20"
             }
         },
         {
