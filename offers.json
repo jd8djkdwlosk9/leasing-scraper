@@ -1,6 +1,6 @@
 {
-    "generated": "2026-09-11T15:00:26+00:00",
-    "count": 17,
+    "generated": "2026-09-12T10:46:09+00:00",
+    "count": 18,
     "offers": [
         {
             "source": "toprate24.de",
@@ -34,6 +34,21 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-07-06 14:39:19"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "3990c37b-83fd-478b-b5bb-012ab0a2c225_9153c228-661b-4e10-a02d-027d0a8ebb06",
+            "title": "BMW iX xDrive45 552€ netto/mtl.*M Sportpaket*21\"*LC",
+            "price": "657,11 €/mtl.",
+            "url": "https://www.goleasy.de/forward/3990c37b-83fd-478b-b5bb-012ab0a2c225/leasing/9153c228-661b-4e10-a02d-027d0a8ebb06?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c4/c49680b7-d1e8-498d-9ff9-a84f7669f0c7?rule=mo-640.jpg",
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
@@ -112,7 +127,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-11 17:00:26"
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
@@ -129,7 +144,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-11 17:00:26"
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
@@ -180,7 +195,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-11 17:00:26"
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
@@ -197,7 +212,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-11 17:00:26"
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
@@ -214,7 +229,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-11 17:00:26"
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
@@ -231,7 +246,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-11 17:00:26"
+                "checked_at": "2026-09-12 12:46:09"
             }
         },
         {
