@@ -1,6 +1,6 @@
 {
-    "generated": "2026-09-12T10:46:09+00:00",
-    "count": 18,
+    "generated": "2026-09-13T14:01:17+00:00",
+    "count": 19,
     "offers": [
         {
             "source": "toprate24.de",
@@ -48,7 +48,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:16"
             }
         },
         {
@@ -79,6 +79,21 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-09-11 17:00:26"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "b745a2c8-9453-448b-bc52-5e3fe895371c_9f92e175-86e7-4630-ab6b-6ac1a3e419c8",
+            "title": "BMW iX xDrive45 M Sport + GARANTIE-bis-10.2030",
+            "price": "691,70 €/mtl.",
+            "url": "https://www.goleasy.de/forward/b745a2c8-9453-448b-bc52-5e3fe895371c/leasing/9f92e175-86e7-4630-ab6b-6ac1a3e419c8?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/2e/2e640f68-a429-49d4-bb1a-849c5192c235?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {
@@ -127,7 +142,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {
@@ -144,7 +159,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {
@@ -195,7 +210,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {
@@ -212,7 +227,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {
@@ -229,7 +244,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {
@@ -246,7 +261,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-09-12 12:46:09"
+                "checked_at": "2026-09-13 16:01:17"
             }
         },
         {

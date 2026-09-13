@@ -568,14 +568,14 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:17"
     },
     "mister-leasing.de::7pE942S": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:17"
     },
     "mister-leasing.de::552H7Le": {
         "status": "reject",
@@ -596,28 +596,28 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:17"
     },
     "mister-leasing.de::1L65B8l": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:17"
     },
     "mister-leasing.de::26PiL25": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:17"
     },
     "mister-leasing.de::W8ew210": {
         "status": "unknown",
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:17"
     },
     "mister-leasing.de::7p180aB": {
         "status": "reject",
@@ -1094,6 +1094,13 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-12 12:46:09"
+        "checked_at": "2026-09-13 16:01:16"
+    },
+    "goleasy.de::b745a2c8-9453-448b-bc52-5e3fe895371c_9f92e175-86e7-4630-ab6b-6ac1a3e419c8": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-13 16:01:17"
     }
 }
