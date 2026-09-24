@@ -1094,7 +1094,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-22 15:45:37"
+        "checked_at": "2026-09-24 12:16:11"
     },
     "goleasy.de::b745a2c8-9453-448b-bc52-5e3fe895371c_9f92e175-86e7-4630-ab6b-6ac1a3e419c8": {
         "status": "reject",
@@ -1137,5 +1137,19 @@
         "color": "Weiß",
         "features": [],
         "checked_at": "2026-09-19 17:15:54"
+    },
+    "goleasy.de::9903e197-9224-4707-b748-b262520bcd38_9c2f55c4-7437-46c9-a20e-ef175725dd12": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-09-24 12:16:12"
+    },
+    "goleasy.de::b745a2c8-9453-448b-bc52-5e3fe895371c_7c9b30ff-49ae-4b83-bf4c-97649d38dd61": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-24 12:16:12"
     }
 }
