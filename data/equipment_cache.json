@@ -1094,7 +1094,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-24 12:16:11"
+        "checked_at": "2026-09-25 13:45:43"
     },
     "goleasy.de::b745a2c8-9453-448b-bc52-5e3fe895371c_9f92e175-86e7-4630-ab6b-6ac1a3e419c8": {
         "status": "reject",
@@ -1151,5 +1151,14 @@
         "color": "Weiß",
         "features": [],
         "checked_at": "2026-09-24 12:16:12"
+    },
+    "toprate24.de::616898": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-09-25 13:45:42"
     }
 }
