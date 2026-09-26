@@ -1094,7 +1094,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-25 13:45:43"
+        "checked_at": "2026-09-26 10:16:08"
     },
     "goleasy.de::b745a2c8-9453-448b-bc52-5e3fe895371c_9f92e175-86e7-4630-ab6b-6ac1a3e419c8": {
         "status": "reject",
@@ -1160,5 +1160,40 @@
             "Innovation Paket"
         ],
         "checked_at": "2026-09-25 13:45:42"
+    },
+    "goleasy.de::27734c39-1ba9-40c9-88ae-50df995117e5_05b045b3-0174-45a7-8ad9-b8af384587d6": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-26 10:16:07"
+    },
+    "goleasy.de::23e89786-1234-4e38-9e72-7bdc8235ae1a_9090632d-b76e-4bd8-bcbe-4dbeba8a50ea": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-26 10:16:07"
+    },
+    "goleasy.de::84b2d1a5-d002-4aa6-8050-7057810ae20c_9ea1062b-4198-456a-a63f-fa47dbcaeb3c": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-09-26 10:16:07"
+    },
+    "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_559a1648-a150-4578-bb7a-863ea533b902": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-26 10:16:08"
+    },
+    "goleasy.de::4fa35693-794d-4628-8e3a-b6d817ebd7ee_e831e08d-15d1-4e78-8560-1fef0f0a5bb4": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-26 10:16:09"
     }
 }
