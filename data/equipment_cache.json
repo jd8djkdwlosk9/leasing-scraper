@@ -1202,5 +1202,68 @@
         "color": "Silber",
         "features": [],
         "checked_at": "2026-09-27 17:15:50"
+    },
+    "goleasy.de::03c1416a-ce2e-4b51-b0f0-852a5cbabfec_24cd65e5-44ca-4aa7-a6e2-20fc8a62a3b0": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:22"
+    },
+    "goleasy.de::bbb910cc-f51d-4a8e-bc9e-765432e8fd6b_be0f4719-75a9-415d-9bb0-d4e6c773d64e": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:23"
+    },
+    "goleasy.de::1da6bb09-0971-4676-9ea8-e141fe1fde67_600fa04b-9ec4-496d-8465-06d442598cd6": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:23"
+    },
+    "goleasy.de::c7a2c9df-d868-4b27-8898-fc1846096f0d_9c097d3c-c701-42f2-98e3-fd7bcaf28186": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:23"
+    },
+    "goleasy.de::bbb89a26-bf5d-439d-8e14-5d5dae1f6124_e2a01902-43e2-4f3f-b64c-96575ecc7a39": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:24"
+    },
+    "goleasy.de::d04cdb40-26d9-424c-99bc-2511cd28c012_7f41e2bd-02b7-4993-ab57-9f8f50e152fe": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:24"
+    },
+    "goleasy.de::41da25c0-7731-429a-8b34-7ee57fd35b1f_ccf0db1e-e91f-43ea-95dc-b6d24c2f7fc7": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:25"
+    },
+    "goleasy.de::175656b2-a940-4e18-a9e0-61adbee88b35_f8158beb-50de-4d09-91f5-ecbe5ff3fa43": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:25"
+    },
+    "goleasy.de::e474e111-b30f-4ff3-87dd-4380dedee528_a12ade03-d5d7-45c5-9816-ee775ebbab5e": {
+        "status": "reject",
+        "matches": false,
+        "color": "Silber",
+        "features": [],
+        "checked_at": "2026-09-28 16:46:25"
     }
 }
