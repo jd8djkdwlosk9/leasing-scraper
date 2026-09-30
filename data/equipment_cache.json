@@ -1265,5 +1265,19 @@
         "color": "Silber",
         "features": [],
         "checked_at": "2026-09-28 16:46:25"
+    },
+    "mister-leasing.de::Hn14c97": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-09-30 11:45:22"
+    },
+    "mister-leasing.de::199uw7E": {
+        "status": "unknown",
+        "matches": false,
+        "color": "Schwarz",
+        "features": [],
+        "checked_at": "2026-09-30 11:45:22"
     }
 }
