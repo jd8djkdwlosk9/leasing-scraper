@@ -1215,7 +1215,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-28 16:46:23"
+        "checked_at": "2026-10-02 13:30:45"
     },
     "goleasy.de::1da6bb09-0971-4676-9ea8-e141fe1fde67_600fa04b-9ec4-496d-8465-06d442598cd6": {
         "status": "unknown",
@@ -1278,6 +1278,48 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-01 12:01:17"
+        "checked_at": "2026-10-02 13:30:47"
+    },
+    "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-02 13:30:44"
+    },
+    "goleasy.de::03c1416a-ce2e-4b51-b0f0-852a5cbabfec_eeb29bb1-5bb0-47f6-9cc5-54f4032897ae": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-02 13:30:45"
+    },
+    "goleasy.de::c7a2c9df-d868-4b27-8898-fc1846096f0d_a4c72389-0a0b-4211-814d-63c08926bbf7": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-02 13:30:45"
+    },
+    "goleasy.de::d04cdb40-26d9-424c-99bc-2511cd28c012_597bbc82-70f7-4145-94b5-7071538fbda5": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-02 13:30:46"
+    },
+    "goleasy.de::e474e111-b30f-4ff3-87dd-4380dedee528_f577905a-9f8e-4f69-b607-40fbb35286ea": {
+        "status": "reject",
+        "matches": false,
+        "color": "Silber",
+        "features": [],
+        "checked_at": "2026-10-02 13:30:46"
+    },
+    "goleasy.de::8f08b0d9-e323-4073-9113-0aa3f5bec042_73606f8a-a872-49f2-8220-39d3219cafed": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-10-02 13:30:47"
     }
 }
