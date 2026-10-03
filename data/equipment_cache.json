@@ -1180,7 +1180,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-09-27 17:15:49"
+        "checked_at": "2026-10-03 16:31:01"
     },
     "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_559a1648-a150-4578-bb7a-863ea533b902": {
         "status": "reject",
@@ -1278,7 +1278,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-02 13:30:47"
+        "checked_at": "2026-10-03 16:31:03"
     },
     "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
         "status": "reject",
@@ -1321,5 +1321,47 @@
         "color": "Grau",
         "features": [],
         "checked_at": "2026-10-02 13:30:47"
+    },
+    "goleasy.de::27734c39-1ba9-40c9-88ae-50df995117e5_93c4ac7e-ccd2-45dc-84d3-c4c1b5aff371": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-03 16:31:00"
+    },
+    "goleasy.de::23e89786-1234-4e38-9e72-7bdc8235ae1a_2cf90a89-eacb-4171-aa2e-89c6bfc60af0": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-03 16:31:01"
+    },
+    "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_94b9bd36-9dfa-446a-bf30-5f91a4ea359d": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-03 16:31:02"
+    },
+    "goleasy.de::4fa35693-794d-4628-8e3a-b6d817ebd7ee_46374048-d7ba-4144-902d-134b6f3acd49": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-03 16:31:02"
+    },
+    "goleasy.de::4388be2c-3f21-4039-b20b-afe030f45f66_a6bbb2f4-2a66-404b-8da4-22145645ee1b": {
+        "status": "reject",
+        "matches": false,
+        "color": "Silber",
+        "features": [],
+        "checked_at": "2026-10-03 16:31:03"
+    },
+    "goleasy.de::0cd9fb65-e61c-413b-9ed2-b08f18d1f4fc_2b5a599a-862f-4840-bbea-cac35463d7a7": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-10-03 16:31:03"
     }
 }
