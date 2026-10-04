@@ -1180,7 +1180,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-03 16:31:01"
+        "checked_at": "2026-10-04 15:46:16"
     },
     "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_559a1648-a150-4578-bb7a-863ea533b902": {
         "status": "reject",
@@ -1278,7 +1278,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-03 16:31:03"
+        "checked_at": "2026-10-04 15:46:17"
     },
     "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
         "status": "reject",
@@ -1363,5 +1363,12 @@
         "color": "Grau",
         "features": [],
         "checked_at": "2026-10-03 16:31:03"
+    },
+    "goleasy.de::b3d5454a-325e-4375-91ed-09d421d5de48_9a534fe5-a9ed-42db-988d-57ed9faf70d3": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-10-04 15:46:17"
     }
 }
