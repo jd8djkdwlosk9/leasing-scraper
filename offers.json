@@ -1,24 +1,7 @@
 {
-    "generated": "2026-10-05T14:30:52+00:00",
-    "count": 12,
+    "generated": "2026-10-06T10:01:23+00:00",
+    "count": 11,
     "offers": [
-        {
-            "source": "toprate24.de",
-            "id": "616898",
-            "title": "BMW iX M Sportpaket xDrive60",
-            "price": "697,– €/mtl.",
-            "url": "https://www.toprate24.de/bmw-ix-leasing-x__616898.php",
-            "image": "https://img.autrado.de/2216/18419698_640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [
-                    "Innovation Paket"
-                ],
-                "checked_at": "2026-09-25 13:45:42"
-            }
-        },
         {
             "source": "goleasy.de",
             "id": "23e89786-1234-4e38-9e72-7bdc8235ae1a_2cf90a89-eacb-4171-aa2e-89c6bfc60af0",
@@ -46,7 +29,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-05 16:30:52"
+                "checked_at": "2026-10-06 12:01:22"
             }
         },
         {
@@ -141,17 +124,17 @@
         },
         {
             "source": "goleasy.de",
-            "id": "0cd9fb65-e61c-413b-9ed2-b08f18d1f4fc_2b5a599a-862f-4840-bbea-cac35463d7a7",
-            "title": "BMW iX xDrive45 Driv.Assist+ Harman/K Kamera LED",
-            "price": "694,17 €/mtl.",
-            "url": "https://www.goleasy.de/forward/0cd9fb65-e61c-413b-9ed2-b08f18d1f4fc/leasing/2b5a599a-862f-4840-bbea-cac35463d7a7?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/7b/7b459d9c-ed1e-4b2b-b559-6d75d2845a69?rule=mo-640.jpg",
+            "id": "83bbe74c-dbba-4624-9037-edb14976a5e2_6a5edef3-4824-4f32-bc1e-4125806222ad",
+            "title": "BMW iX xDrive60 M Sport + GARANTIE-bis-10.2030",
+            "price": "698,38 €/mtl.",
+            "url": "https://www.goleasy.de/forward/83bbe74c-dbba-4624-9037-edb14976a5e2/leasing/6a5edef3-4824-4f32-bc1e-4125806222ad?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c3/c353e392-013c-49a4-a3e1-5b991cac4bae?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
-                "color": "Grau",
+                "color": "Silber",
                 "features": [],
-                "checked_at": "2026-10-03 16:31:03"
+                "checked_at": "2026-10-06 12:01:23"
             }
         },
         {
@@ -185,7 +168,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-05 16:30:52"
+                "checked_at": "2026-10-06 12:01:23"
             }
         }
     ]
