@@ -1180,7 +1180,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-09 10:46:05"
+        "checked_at": "2026-10-10 14:15:35"
     },
     "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_559a1648-a150-4578-bb7a-863ea533b902": {
         "status": "reject",
@@ -1278,7 +1278,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-09 10:46:05"
+        "checked_at": "2026-10-10 14:15:36"
     },
     "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
         "status": "reject",
@@ -1405,5 +1405,54 @@
         "color": "Silber",
         "features": [],
         "checked_at": "2026-10-08 17:15:59"
+    },
+    "goleasy.de::4a861250-6677-42f3-a903-44975ae5898d_586004bb-7539-4fdd-9811-8b9d9db4d7b0": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:34"
+    },
+    "goleasy.de::4849912e-eacc-408a-bf32-d752e9ecf54b_a9e1f06d-2199-4ee0-8543-c26aee2412a2": {
+        "status": "reject",
+        "matches": false,
+        "color": "Alpinweiß uni",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:34"
+    },
+    "goleasy.de::4388be2c-3f21-4039-b20b-afe030f45f66_a54fb7b7-ea72-4526-8ca6-7ee0bd16d5a0": {
+        "status": "reject",
+        "matches": false,
+        "color": "Silber",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:35"
+    },
+    "goleasy.de::35f2de1a-bc67-4ffd-8253-0ae787e37dd9_c7800748-560d-4efc-afeb-27108223b801": {
+        "status": "reject",
+        "matches": false,
+        "color": "Arctic Race Blue metallic",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:36"
+    },
+    "mister-leasing.de::874fR1K": {
+        "status": "reject",
+        "matches": false,
+        "color": "Spacesilber metallic",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:36"
+    },
+    "mister-leasing.de::067o0lp": {
+        "status": "reject",
+        "matches": false,
+        "color": "Alpinweiß uni",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:36"
+    },
+    "mister-leasing.de::3y90zY8": {
+        "status": "reject",
+        "matches": false,
+        "color": "Arctic Race Blue metallic",
+        "features": [],
+        "checked_at": "2026-10-10 14:15:36"
     }
 }
