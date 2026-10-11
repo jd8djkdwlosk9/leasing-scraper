@@ -1,5 +1,5 @@
 {
-    "generated": "2026-10-10T12:15:36+00:00",
+    "generated": "2026-10-11T08:16:13+00:00",
     "count": 13,
     "offers": [
         {
@@ -59,7 +59,22 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-10 14:15:35"
+                "checked_at": "2026-10-11 10:16:13"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "636026a1-8438-455f-b820-93da3ee94d9d_c0171d1a-117c-4add-93ce-cbd27b474690",
+            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
+            "price": "657,25 €/mtl.",
+            "url": "https://www.goleasy.de/forward/636026a1-8438-455f-b820-93da3ee94d9d/leasing/c0171d1a-117c-4add-93ce-cbd27b474690?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/a7/a74de9c3-5cc2-4feb-b029-0f106a5ceef3?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-10-11 10:16:13"
             }
         },
         {
@@ -105,21 +120,6 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-10-03 16:31:02"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "35f2de1a-bc67-4ffd-8253-0ae787e37dd9_c7800748-560d-4efc-afeb-27108223b801",
-            "title": "BMW iX xDrive60",
-            "price": "681,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/35f2de1a-bc67-4ffd-8253-0ae787e37dd9/leasing/c7800748-560d-4efc-afeb-27108223b801?source=redirect",
-            "image": "",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Arctic Race Blue metallic",
-                "features": [],
-                "checked_at": "2026-10-10 14:15:36"
             }
         },
         {
@@ -204,7 +204,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-10 14:15:36"
+                "checked_at": "2026-10-11 10:16:13"
             }
         }
     ]
