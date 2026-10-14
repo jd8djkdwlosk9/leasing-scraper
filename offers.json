@@ -1,6 +1,6 @@
 {
-    "generated": "2026-10-13T14:45:46+00:00",
-    "count": 11,
+    "generated": "2026-10-14T11:01:19+00:00",
+    "count": 10,
     "offers": [
         {
             "source": "goleasy.de",
@@ -15,21 +15,6 @@
                 "color": "Alpinweiß uni",
                 "features": [],
                 "checked_at": "2026-10-10 14:15:34"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "84b2d1a5-d002-4aa6-8050-7057810ae20c_9ea1062b-4198-456a-a63f-fa47dbcaeb3c",
-            "title": "BMW iX 40 xDrive Premium Plus H&K Park-Assistent",
-            "price": "650,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/84b2d1a5-d002-4aa6-8050-7057810ae20c/leasing/9ea1062b-4198-456a-a63f-fa47dbcaeb3c?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/a5/a5aed1d7-5daa-4f7d-823d-861a4f2ed363?rule=mo-640.jpg",
-            "equipment": {
-                "status": "unknown",
-                "matches": false,
-                "color": "Schwarz",
-                "features": [],
-                "checked_at": "2026-10-13 16:45:45"
             }
         },
         {
@@ -170,7 +155,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-13 16:45:46"
+                "checked_at": "2026-10-14 13:01:19"
             }
         }
     ]
