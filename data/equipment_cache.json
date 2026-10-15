@@ -1180,7 +1180,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-13 16:45:45"
+        "checked_at": "2026-10-15 11:16:09"
     },
     "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_559a1648-a150-4578-bb7a-863ea533b902": {
         "status": "reject",
@@ -1278,7 +1278,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-14 13:01:19"
+        "checked_at": "2026-10-15 11:16:09"
     },
     "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
         "status": "reject",
@@ -1468,5 +1468,21 @@
         "color": "Grau",
         "features": [],
         "checked_at": "2026-10-13 16:45:46"
+    },
+    "toprate24.de::632438": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [
+            "Innovation Paket"
+        ],
+        "checked_at": "2026-10-15 11:16:09"
+    },
+    "goleasy.de::6249680f-2d10-497c-a574-0b0ee4b57a30_2305a0d2-2876-4008-9aab-63e504002d37": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-10-15 11:16:09"
     }
 }
