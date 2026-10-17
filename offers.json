@@ -1,5 +1,5 @@
 {
-    "generated": "2026-10-16T11:00:27+00:00",
+    "generated": "2026-10-17T14:15:29+00:00",
     "count": 10,
     "offers": [
         {
@@ -46,7 +46,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-16 13:00:27"
+                "checked_at": "2026-10-17 16:15:28"
             }
         },
         {
@@ -70,7 +70,7 @@
             "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
             "price": "666,94 €/mtl.",
             "url": "https://www.goleasy.de/forward/2e418e93-4372-4cca-a930-2aeb09158a98/leasing/180ee052-8812-44c1-9ced-ee56f22f7847?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/5e/5e588de5-d264-4ffa-8b01-6489173406de?rule=mo-640.jpg",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/98/9822cea1-cc03-44dd-957f-6bc35985f3c3?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -96,17 +96,17 @@
         },
         {
             "source": "goleasy.de",
-            "id": "6249680f-2d10-497c-a574-0b0ee4b57a30_2305a0d2-2876-4008-9aab-63e504002d37",
-            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
-            "price": "691,52 €/mtl.",
-            "url": "https://www.goleasy.de/forward/6249680f-2d10-497c-a574-0b0ee4b57a30/leasing/2305a0d2-2876-4008-9aab-63e504002d37?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/6c/6cbbe0d3-c082-4e9c-b0f9-af650e36e0c3?rule=mo-640.jpg",
+            "id": "3e8df8ca-2c80-4d5f-a3bf-b49484544466_4c81ed71-dd93-42d2-83f0-862c2e6f622a",
+            "title": "BMW iX xDrive45 M Sportpaket*H&K Surround*AHK*Memory",
+            "price": "692,32 €/mtl.",
+            "url": "https://www.goleasy.de/forward/3e8df8ca-2c80-4d5f-a3bf-b49484544466/leasing/4c81ed71-dd93-42d2-83f0-862c2e6f622a?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/a5/a5b5cc13-5c05-4b5b-aba1-6489d4af7576?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
                 "color": "Grau",
                 "features": [],
-                "checked_at": "2026-10-15 11:16:09"
+                "checked_at": "2026-10-17 16:15:29"
             }
         },
         {
@@ -157,7 +157,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-16 13:00:27"
+                "checked_at": "2026-10-17 16:15:29"
             }
         }
     ]
