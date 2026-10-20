@@ -1,12 +1,12 @@
 {
-    "generated": "2026-10-19T08:30:56+00:00",
-    "count": 10,
+    "generated": "2026-10-20T09:30:59+00:00",
+    "count": 11,
     "offers": [
         {
             "source": "toprate24.de",
             "id": "632438",
             "title": "BMW iX xDrive60 M Sportpaket AHK Luftfederung 22Zoll",
-            "price": "949,– €/mtl.",
+            "price": "947,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__632438.php",
             "image": "https://img.autrado.de/2216/18588761_640.jpg",
             "equipment": {
@@ -46,7 +46,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-19 10:30:56"
+                "checked_at": "2026-10-20 11:30:59"
             }
         },
         {
@@ -111,6 +111,23 @@
         },
         {
             "source": "mister-leasing.de",
+            "id": "09SG9l4",
+            "title": "BMW iX xDrive45 M Sport – 408 PS",
+            "price": "594,00 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/09SG9l4",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1792446077010-3lx3du.webp",
+            "color": "BMW Individual Tansanitblau",
+            "list_price": 103560,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "BMW Individual Tansanitblau",
+                "features": [],
+                "checked_at": "2026-10-20 11:30:59"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
             "id": "Hn14c97",
             "title": "BMW iX xDrive45 M Sport – 408 PS",
             "price": "620,00 €/mtl. (27M/10.000km)",
@@ -157,7 +174,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-19 10:30:56"
+                "checked_at": "2026-10-20 11:30:59"
             }
         }
     ]
