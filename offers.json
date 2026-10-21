@@ -1,5 +1,5 @@
 {
-    "generated": "2026-10-20T09:30:59+00:00",
+    "generated": "2026-10-21T15:01:03+00:00",
     "count": 11,
     "offers": [
         {
@@ -46,7 +46,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-20 11:30:59"
+                "checked_at": "2026-10-21 17:01:03"
             }
         },
         {
@@ -55,7 +55,7 @@
             "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
             "price": "663,96 €/mtl.",
             "url": "https://www.goleasy.de/forward/e4a4d448-0a6b-4bf6-ade4-bb56287a787d/leasing/a2c0f12f-8d4b-4bd3-ab5f-a939a36df368?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/42/4229c7fe-89b0-40ae-a43d-1d16bbb2f326?rule=mo-640.jpg",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/cd/cd4e32e1-dc33-421c-b627-ce1231db3c6b?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
@@ -174,7 +174,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-20 11:30:59"
+                "checked_at": "2026-10-21 17:01:03"
             }
         }
     ]
