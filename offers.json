@@ -1,5 +1,5 @@
 {
-    "generated": "2026-10-21T15:01:03+00:00",
+    "generated": "2026-10-22T13:45:29+00:00",
     "count": 11,
     "offers": [
         {
@@ -46,7 +46,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-21 17:01:03"
+                "checked_at": "2026-10-22 15:45:29"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-21 17:01:03"
+                "checked_at": "2026-10-22 15:45:29"
             }
         }
     ]
