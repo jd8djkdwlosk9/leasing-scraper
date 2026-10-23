@@ -1,6 +1,6 @@
 {
-    "generated": "2026-10-22T13:45:29+00:00",
-    "count": 11,
+    "generated": "2026-10-23T10:16:20+00:00",
+    "count": 12,
     "offers": [
         {
             "source": "toprate24.de",
@@ -46,7 +46,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-22 15:45:29"
+                "checked_at": "2026-10-23 12:16:20"
             }
         },
         {
@@ -96,17 +96,17 @@
         },
         {
             "source": "goleasy.de",
-            "id": "3e8df8ca-2c80-4d5f-a3bf-b49484544466_4c81ed71-dd93-42d2-83f0-862c2e6f622a",
-            "title": "BMW iX xDrive45 M Sportpaket*H&K Surround*AHK*Memory",
-            "price": "692,32 €/mtl.",
-            "url": "https://www.goleasy.de/forward/3e8df8ca-2c80-4d5f-a3bf-b49484544466/leasing/4c81ed71-dd93-42d2-83f0-862c2e6f622a?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/a5/a5b5cc13-5c05-4b5b-aba1-6489d4af7576?rule=mo-640.jpg",
+            "id": "45ff1866-d1da-4282-bcc8-5c3f62d1fdf2_25d70eeb-b5ab-446f-aff0-8647b99ccee2",
+            "title": "BMW iX xDrive50 Sportpaket HUD Sky Laser ACC AHK",
+            "price": "698,99 €/mtl.",
+            "url": "https://www.goleasy.de/forward/45ff1866-d1da-4282-bcc8-5c3f62d1fdf2/leasing/25d70eeb-b5ab-446f-aff0-8647b99ccee2?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/d5/d5d4d762-acaf-4dc6-bab0-fee43aa9759b?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
                 "color": "Grau",
                 "features": [],
-                "checked_at": "2026-10-17 16:15:29"
+                "checked_at": "2026-10-23 12:16:20"
             }
         },
         {
@@ -162,6 +162,23 @@
         },
         {
             "source": "mister-leasing.de",
+            "id": "71Y4MC7",
+            "title": "BMW iX xDrive60 – 544 PS",
+            "price": "689,01 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/71Y4MC7",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/71y4mc7_ix-xdrive60.jpg",
+            "color": "Dune Grey metallic",
+            "list_price": 0,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Dune Grey metallic",
+                "features": [],
+                "checked_at": "2026-10-23 12:16:20"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
             "id": "199uw7E",
             "title": "BMW iX xDrive60 M Sport – 544 PS",
             "price": "726,00 €/mtl. (27M/10.000km)",
@@ -174,7 +191,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-22 15:45:29"
+                "checked_at": "2026-10-23 12:16:20"
             }
         }
     ]

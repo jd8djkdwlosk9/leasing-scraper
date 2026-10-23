@@ -1180,7 +1180,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-22 15:45:29"
+        "checked_at": "2026-10-23 12:16:20"
     },
     "goleasy.de::2e418e93-4372-4cca-a930-2aeb09158a98_559a1648-a150-4578-bb7a-863ea533b902": {
         "status": "reject",
@@ -1278,7 +1278,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-22 15:45:29"
+        "checked_at": "2026-10-23 12:16:20"
     },
     "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
         "status": "reject",
@@ -1512,5 +1512,19 @@
         "color": "BMW Individual Tansanitblau",
         "features": [],
         "checked_at": "2026-10-20 11:30:59"
+    },
+    "goleasy.de::45ff1866-d1da-4282-bcc8-5c3f62d1fdf2_25d70eeb-b5ab-446f-aff0-8647b99ccee2": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-10-23 12:16:20"
+    },
+    "mister-leasing.de::71Y4MC7": {
+        "status": "reject",
+        "matches": false,
+        "color": "Dune Grey metallic",
+        "features": [],
+        "checked_at": "2026-10-23 12:16:20"
     }
 }
