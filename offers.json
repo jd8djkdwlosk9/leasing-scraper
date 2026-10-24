@@ -1,5 +1,5 @@
 {
-    "generated": "2026-10-23T10:16:20+00:00",
+    "generated": "2026-10-24T13:16:01+00:00",
     "count": 12,
     "offers": [
         {
@@ -36,77 +36,77 @@
         },
         {
             "source": "goleasy.de",
-            "id": "84b2d1a5-d002-4aa6-8050-7057810ae20c_9ea1062b-4198-456a-a63f-fa47dbcaeb3c",
+            "id": "a21e70ee-92b6-4d84-a6ce-cd26af98e1c6_00031e93-2988-47c2-bae4-d4e79368b2d5",
+            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
+            "price": "639,14 €/mtl.",
+            "url": "https://www.goleasy.de/forward/a21e70ee-92b6-4d84-a6ce-cd26af98e1c6/leasing/00031e93-2988-47c2-bae4-d4e79368b2d5?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/d7/d72aa3b8-8521-45fa-a29e-5a08563e303f?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-10-24 15:15:59"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "175656b2-a940-4e18-a9e0-61adbee88b35_f4ee0680-a507-4222-b370-41b4de4ef01c",
+            "title": "BMW iX xDrive50 M Sport 2Achs SoftCl 360° Laser",
+            "price": "644,99 €/mtl.",
+            "url": "https://www.goleasy.de/forward/175656b2-a940-4e18-a9e0-61adbee88b35/leasing/f4ee0680-a507-4222-b370-41b4de4ef01c?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/79/79d2ae87-0efc-437d-828b-1c9bebe1259b?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-10-24 15:16:00"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "bbb910cc-f51d-4a8e-bc9e-765432e8fd6b_be0f4719-75a9-415d-9bb0-d4e6c773d64e",
             "title": "BMW iX 40 xDrive Premium Plus H&K Park-Assistent",
             "price": "650,00 €/mtl.",
-            "url": "https://www.goleasy.de/forward/84b2d1a5-d002-4aa6-8050-7057810ae20c/leasing/9ea1062b-4198-456a-a63f-fa47dbcaeb3c?source=redirect",
+            "url": "https://www.goleasy.de/forward/bbb910cc-f51d-4a8e-bc9e-765432e8fd6b/leasing/be0f4719-75a9-415d-9bb0-d4e6c773d64e?source=redirect",
             "image": "https://img.classistatic.de/api/v1/mo-prod/images/a5/a5aed1d7-5daa-4f7d-823d-861a4f2ed363?rule=mo-640.jpg",
             "equipment": {
                 "status": "unknown",
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-23 12:16:20"
+                "checked_at": "2026-10-24 15:16:00"
             }
         },
         {
             "source": "goleasy.de",
-            "id": "e4a4d448-0a6b-4bf6-ade4-bb56287a787d_a2c0f12f-8d4b-4bd3-ab5f-a939a36df368",
-            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
-            "price": "663,96 €/mtl.",
-            "url": "https://www.goleasy.de/forward/e4a4d448-0a6b-4bf6-ade4-bb56287a787d/leasing/a2c0f12f-8d4b-4bd3-ab5f-a939a36df368?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/cd/cd4e32e1-dc33-421c-b627-ce1231db3c6b?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Blau",
-                "features": [],
-                "checked_at": "2026-10-18 12:16:04"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "e663ed4f-e75e-46c6-b9d2-e6e10aa5d75c_a683c037-d94c-4a8e-86cc-97beeda92d1b",
+            "id": "08b57651-e9ae-4a9e-85df-e2c37ed3b019_e3a2edb2-e694-49ec-98cd-e79a7e93122a",
             "title": "BMW iX xDrive40",
             "price": "664,02 €/mtl.",
-            "url": "https://www.goleasy.de/forward/e663ed4f-e75e-46c6-b9d2-e6e10aa5d75c/leasing/a683c037-d94c-4a8e-86cc-97beeda92d1b?source=redirect",
+            "url": "https://www.goleasy.de/forward/08b57651-e9ae-4a9e-85df-e2c37ed3b019/leasing/e3a2edb2-e694-49ec-98cd-e79a7e93122a?source=redirect",
             "image": "https://img.classistatic.de/api/v1/mo-prod/images/8e/8eab1879-c039-487f-a7ff-b53a52ba479a?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
                 "color": "Rot",
                 "features": [],
-                "checked_at": "2026-10-16 13:00:27"
+                "checked_at": "2026-10-24 15:16:00"
             }
         },
         {
             "source": "goleasy.de",
-            "id": "2e418e93-4372-4cca-a930-2aeb09158a98_180ee052-8812-44c1-9ced-ee56f22f7847",
+            "id": "c7a2c9df-d868-4b27-8898-fc1846096f0d_9b0f0240-bf69-4807-8835-5a23b457d5e6",
             "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
             "price": "666,94 €/mtl.",
-            "url": "https://www.goleasy.de/forward/2e418e93-4372-4cca-a930-2aeb09158a98/leasing/180ee052-8812-44c1-9ced-ee56f22f7847?source=redirect",
+            "url": "https://www.goleasy.de/forward/c7a2c9df-d868-4b27-8898-fc1846096f0d/leasing/9b0f0240-bf69-4807-8835-5a23b457d5e6?source=redirect",
             "image": "https://img.classistatic.de/api/v1/mo-prod/images/98/9822cea1-cc03-44dd-957f-6bc35985f3c3?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
                 "color": "Weiß",
                 "features": [],
-                "checked_at": "2026-10-08 17:15:58"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "45ff1866-d1da-4282-bcc8-5c3f62d1fdf2_25d70eeb-b5ab-446f-aff0-8647b99ccee2",
-            "title": "BMW iX xDrive50 Sportpaket HUD Sky Laser ACC AHK",
-            "price": "698,99 €/mtl.",
-            "url": "https://www.goleasy.de/forward/45ff1866-d1da-4282-bcc8-5c3f62d1fdf2/leasing/25d70eeb-b5ab-446f-aff0-8647b99ccee2?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/d5/d5d4d762-acaf-4dc6-bab0-fee43aa9759b?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-10-23 12:16:20"
+                "checked_at": "2026-10-24 15:16:01"
             }
         },
         {
@@ -191,7 +191,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-23 12:16:20"
+                "checked_at": "2026-10-24 15:16:01"
             }
         }
     ]

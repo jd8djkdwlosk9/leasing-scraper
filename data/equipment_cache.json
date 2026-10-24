@@ -1215,7 +1215,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-02 13:30:45"
+        "checked_at": "2026-10-24 15:16:00"
     },
     "goleasy.de::1da6bb09-0971-4676-9ea8-e141fe1fde67_600fa04b-9ec4-496d-8465-06d442598cd6": {
         "status": "unknown",
@@ -1278,7 +1278,7 @@
         "matches": false,
         "color": "Schwarz",
         "features": [],
-        "checked_at": "2026-10-23 12:16:20"
+        "checked_at": "2026-10-24 15:16:01"
     },
     "goleasy.de::16a96571-9370-43b6-bb4a-310f4810df46_3a0fdd26-2c4d-4ac4-8e5a-07cad7cc5aae": {
         "status": "reject",
@@ -1526,5 +1526,33 @@
         "color": "Dune Grey metallic",
         "features": [],
         "checked_at": "2026-10-23 12:16:20"
+    },
+    "goleasy.de::a21e70ee-92b6-4d84-a6ce-cd26af98e1c6_00031e93-2988-47c2-bae4-d4e79368b2d5": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-24 15:15:59"
+    },
+    "goleasy.de::175656b2-a940-4e18-a9e0-61adbee88b35_f4ee0680-a507-4222-b370-41b4de4ef01c": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-10-24 15:16:00"
+    },
+    "goleasy.de::08b57651-e9ae-4a9e-85df-e2c37ed3b019_e3a2edb2-e694-49ec-98cd-e79a7e93122a": {
+        "status": "reject",
+        "matches": false,
+        "color": "Rot",
+        "features": [],
+        "checked_at": "2026-10-24 15:16:00"
+    },
+    "goleasy.de::c7a2c9df-d868-4b27-8898-fc1846096f0d_9b0f0240-bf69-4807-8835-5a23b457d5e6": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-10-24 15:16:01"
     }
 }
