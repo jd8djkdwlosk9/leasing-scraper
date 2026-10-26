@@ -1,12 +1,12 @@
 {
-    "generated": "2026-10-25T14:45:45+00:00",
+    "generated": "2026-10-26T14:01:02+00:00",
     "count": 12,
     "offers": [
         {
             "source": "toprate24.de",
             "id": "632438",
             "title": "BMW iX xDrive60 M Sportpaket AHK Luftfederung 22Zoll",
-            "price": "947,– €/mtl.",
+            "price": "939,– €/mtl.",
             "url": "https://www.toprate24.de/bmw-ix-leasing-x__632438.php",
             "image": "https://img.autrado.de/2216/18588761_640.jpg",
             "equipment": {
@@ -76,7 +76,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-25 15:45:45"
+                "checked_at": "2026-10-26 15:01:02"
             }
         },
         {
@@ -191,7 +191,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-25 15:45:45"
+                "checked_at": "2026-10-26 15:01:02"
             }
         }
     ]
