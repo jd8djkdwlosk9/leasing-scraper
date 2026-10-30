@@ -1,5 +1,5 @@
 {
-    "generated": "2026-10-29T16:30:56+00:00",
+    "generated": "2026-10-30T09:45:39+00:00",
     "count": 10,
     "offers": [
         {
@@ -21,23 +21,6 @@
         },
         {
             "source": "mister-leasing.de",
-            "id": "f6w007O",
-            "title": "BMW iX xDrive45 – 408 PS",
-            "price": "534,31 €/mtl. (27M/10.000km)",
-            "url": "https://mister-leasing.de/fahrzeug/f6w007O",
-            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1793030318984-u03bam.webp",
-            "color": "BMW Individual Tansanitblau metallic",
-            "list_price": 0,
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "BMW Individual Tansanitblau metallic",
-                "features": [],
-                "checked_at": "2026-10-27 11:45:26"
-            }
-        },
-        {
-            "source": "mister-leasing.de",
             "id": "4763yra",
             "title": "BMW iX xDrive45 – 408 PS",
             "price": "534,31 €/mtl. (27M/10.000km)",
@@ -49,6 +32,23 @@
                 "status": "reject",
                 "matches": false,
                 "color": "Dune Grey metallic",
+                "features": [],
+                "checked_at": "2026-10-27 11:45:26"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "f6w007O",
+            "title": "BMW iX xDrive45 – 408 PS",
+            "price": "534,31 €/mtl. (27M/10.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/f6w007O",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/bmw-ix-1793030318984-u03bam.webp",
+            "color": "BMW Individual Tansanitblau metallic",
+            "list_price": 0,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "BMW Individual Tansanitblau metallic",
                 "features": [],
                 "checked_at": "2026-10-27 11:45:26"
             }
@@ -152,7 +152,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-29 17:30:56"
+                "checked_at": "2026-10-30 10:45:39"
             }
         },
         {
