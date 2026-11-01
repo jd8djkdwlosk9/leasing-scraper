@@ -1,6 +1,6 @@
 {
-    "generated": "2026-10-31T11:00:38+00:00",
-    "count": 10,
+    "generated": "2026-11-01T16:31:04+00:00",
+    "count": 15,
     "offers": [
         {
             "source": "toprate24.de",
@@ -17,6 +17,81 @@
                     "Innovation Paket"
                 ],
                 "checked_at": "2026-10-15 11:16:09"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "2e418e93-4372-4cca-a930-2aeb09158a98_180ee052-8812-44c1-9ced-ee56f22f7847",
+            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
+            "price": "666,94 €/mtl.",
+            "url": "https://www.goleasy.de/forward/2e418e93-4372-4cca-a930-2aeb09158a98/leasing/180ee052-8812-44c1-9ced-ee56f22f7847?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/62/62f4b9d9-5795-4b25-ba05-6b48ac51025d?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-10-08 17:15:58"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "a70a2f41-73de-4224-b839-98b34b2b81c7_1d37792f-03e8-418b-b051-ffc0de0bd9e6",
+            "title": "BMW iX xDrive45 M Sport AHK Sitzbelüf 360° ACC H/K",
+            "price": "686,62 €/mtl.",
+            "url": "https://www.goleasy.de/forward/a70a2f41-73de-4224-b839-98b34b2b81c7/leasing/1d37792f-03e8-418b-b051-ffc0de0bd9e6?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/fd/fd70940a-a65a-4b6c-93e7-e4e4da73895c?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-11-01 17:31:03"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "5555248c-5e84-4090-9f1e-199a66d43725_be30ff48-1db0-48d8-82bf-8a9d73535fe6",
+            "title": "BMW iX xDrive45 M Sport Pro H/K HUD ACC 360° 4xSHZ L",
+            "price": "690,07 €/mtl.",
+            "url": "https://www.goleasy.de/forward/5555248c-5e84-4090-9f1e-199a66d43725/leasing/be30ff48-1db0-48d8-82bf-8a9d73535fe6?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/4c/4cb703f8-ac42-4c71-aa9f-e67ddc0ed6bd?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [],
+                "checked_at": "2026-11-01 17:31:03"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "8562cf2a-fa04-4037-bde7-7d04035545aa_53932814-6776-4359-b02d-5a4344807872",
+            "title": "BMW iX 45 M SPORT DAProf 360° AHK H/K Leas 698,-oA",
+            "price": "697,99 €/mtl.",
+            "url": "https://www.goleasy.de/forward/8562cf2a-fa04-4037-bde7-7d04035545aa/leasing/53932814-6776-4359-b02d-5a4344807872?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/94/94e29c0d-74a9-425a-aefc-bd6223458a60?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-11-01 17:31:04"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "45ff1866-d1da-4282-bcc8-5c3f62d1fdf2_ea3b3772-edbb-42c7-80dc-73a730e0174d",
+            "title": "BMW iX xDrive50 Sportpaket HUD Sky Laser ACC AHK",
+            "price": "698,99 €/mtl.",
+            "url": "https://www.goleasy.de/forward/45ff1866-d1da-4282-bcc8-5c3f62d1fdf2/leasing/ea3b3772-edbb-42c7-80dc-73a730e0174d?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/d5/d5d4d762-acaf-4dc6-bab0-fee43aa9759b?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-11-01 17:31:04"
             }
         },
         {
@@ -152,7 +227,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-10-31 12:00:38"
+                "checked_at": "2026-11-01 17:31:04"
             }
         },
         {
