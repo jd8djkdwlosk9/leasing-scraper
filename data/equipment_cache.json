@@ -1631,5 +1631,12 @@
         "color": "Blau",
         "features": [],
         "checked_at": "2026-11-05 14:01:16"
+    },
+    "goleasy.de::3fd65c8a-1c82-4ca8-9c14-80abc7f4237c_5dfa2fc6-5a1a-4dba-959d-86aa2fcdf7ef": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-11-07 14:45:30"
     }
 }
