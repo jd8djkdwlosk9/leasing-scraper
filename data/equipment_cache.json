@@ -1645,5 +1645,26 @@
         "color": "Rot",
         "features": [],
         "checked_at": "2026-11-10 13:45:40"
+    },
+    "goleasy.de::3fd65c8a-1c82-4ca8-9c14-80abc7f4237c_154e208e-1c6d-4335-b0d6-1eda0796486b": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-11-12 17:15:52"
+    },
+    "goleasy.de::a70a2f41-73de-4224-b839-98b34b2b81c7_44a0190e-af68-4a03-b676-607b9d26016f": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-11-12 17:15:52"
+    },
+    "goleasy.de::5555248c-5e84-4090-9f1e-199a66d43725_56bc2757-058d-486e-9241-96829dbca347": {
+        "status": "reject",
+        "matches": false,
+        "color": "Blau",
+        "features": [],
+        "checked_at": "2026-11-12 17:15:53"
     }
 }
