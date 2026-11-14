@@ -1680,5 +1680,19 @@
         "color": "Weiß",
         "features": [],
         "checked_at": "2026-11-13 10:31:05"
+    },
+    "goleasy.de::6d1eccd3-7743-455b-8409-2141b0b91b11_677b1216-f2ad-4955-9065-0ba6d37d4dcb": {
+        "status": "reject",
+        "matches": false,
+        "color": "Weiß",
+        "features": [],
+        "checked_at": "2026-11-14 15:16:13"
+    },
+    "mister-leasing.de::X1uf526": {
+        "status": "reject",
+        "matches": false,
+        "color": "Alpinweiß uni",
+        "features": [],
+        "checked_at": "2026-11-14 15:16:13"
     }
 }
