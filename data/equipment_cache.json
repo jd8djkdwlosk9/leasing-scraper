@@ -1694,5 +1694,12 @@
         "color": "Alpinweiß uni",
         "features": [],
         "checked_at": "2026-11-14 15:16:13"
+    },
+    "goleasy.de::e89c9062-708b-4d64-b1e4-405598e479e0_f9e8b753-8925-46d1-97f9-714970905f9f": {
+        "status": "reject",
+        "matches": false,
+        "color": "Grau",
+        "features": [],
+        "checked_at": "2026-11-17 16:30:29"
     }
 }
