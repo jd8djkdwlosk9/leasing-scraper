@@ -1,5 +1,5 @@
 {
-    "generated": "2026-11-19T11:45:52+00:00",
+    "generated": "2026-11-20T11:01:05+00:00",
     "count": 8,
     "offers": [
         {
@@ -31,22 +31,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-19 12:45:51"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "e89c9062-708b-4d64-b1e4-405598e479e0_f9e8b753-8925-46d1-97f9-714970905f9f",
-            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
-            "price": "672,72 €/mtl.",
-            "url": "https://www.goleasy.de/forward/e89c9062-708b-4d64-b1e4-405598e479e0/leasing/f9e8b753-8925-46d1-97f9-714970905f9f?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/02/022fd8b3-d54b-4705-b3cf-b34114e8de9f?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-11-17 16:30:29"
+                "checked_at": "2026-11-20 12:01:05"
             }
         },
         {
@@ -66,17 +51,17 @@
         },
         {
             "source": "goleasy.de",
-            "id": "985e1a0d-2c4d-41a5-b935-f5129f7dc8df_69b79079-a275-4c53-9c5f-29f254ac289b",
+            "id": "985e1a0d-2c4d-41a5-b935-f5129f7dc8df_747899c0-8992-47be-bc5e-5edda300c931",
             "title": "BMW iX xDrive45 AHK Driv.Assist+ Harman/K Kamera",
             "price": "680,86 €/mtl.",
-            "url": "https://www.goleasy.de/forward/985e1a0d-2c4d-41a5-b935-f5129f7dc8df/leasing/69b79079-a275-4c53-9c5f-29f254ac289b?source=redirect",
+            "url": "https://www.goleasy.de/forward/985e1a0d-2c4d-41a5-b935-f5129f7dc8df/leasing/747899c0-8992-47be-bc5e-5edda300c931?source=redirect",
             "image": "https://img.classistatic.de/api/v1/mo-prod/images/51/51caf7e8-7a9a-4fc0-b1de-dcbde489c593?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
                 "color": "Weiß",
                 "features": [],
-                "checked_at": "2026-11-19 12:45:51"
+                "checked_at": "2026-11-20 12:01:05"
             }
         },
         {
@@ -107,6 +92,21 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-11-19 12:45:52"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "8562cf2a-fa04-4037-bde7-7d04035545aa_9d66fdfe-7967-4c14-b4d7-743658580386",
+            "title": "BMW iX 45 M SPORT DAProf 360° AHK H/K Leas 698,-oA",
+            "price": "697,99 €/mtl.",
+            "url": "https://www.goleasy.de/forward/8562cf2a-fa04-4037-bde7-7d04035545aa/leasing/9d66fdfe-7967-4c14-b4d7-743658580386?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/ba/ba1fa3c5-adda-44cd-9ff3-7cced17e49d3?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-11-13 10:31:05"
             }
         },
         {
