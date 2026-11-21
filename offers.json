@@ -1,6 +1,6 @@
 {
-    "generated": "2026-11-20T11:01:05+00:00",
-    "count": 8,
+    "generated": "2026-11-21T14:45:45+00:00",
+    "count": 10,
     "offers": [
         {
             "source": "toprate24.de",
@@ -21,17 +21,77 @@
         },
         {
             "source": "goleasy.de",
-            "id": "274bd212-6c63-40ea-a1fb-523b50ccae73_96a7e3d3-7ce2-4346-b47e-4b16d524fd9d",
-            "title": "BMW iX xDrive45 M-Sport SkyLou. DA/PA-Pro Leas 649,-",
-            "price": "648,55 €/mtl.",
-            "url": "https://www.goleasy.de/forward/274bd212-6c63-40ea-a1fb-523b50ccae73/leasing/96a7e3d3-7ce2-4346-b47e-4b16d524fd9d?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/80/8033b79f-4e24-44ab-84f3-f199d4481b88?rule=mo-640.jpg",
+            "id": "985e1a0d-2c4d-41a5-b935-f5129f7dc8df_36206db6-88d0-432c-aec2-756f578f1da6",
+            "title": "BMW iX xDrive45 AHK Driv.Assist+ Harman/K Kamera",
+            "price": "603,98 €/mtl.",
+            "url": "https://www.goleasy.de/forward/985e1a0d-2c4d-41a5-b935-f5129f7dc8df/leasing/36206db6-88d0-432c-aec2-756f578f1da6?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/51/51caf7e8-7a9a-4fc0-b1de-dcbde489c593?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Weiß",
+                "features": [],
+                "checked_at": "2026-11-21 15:45:43"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "010f9b87-8cc3-410e-90bb-65890ba63ba5_f53244e7-a570-4959-87f5-8bf644db9289",
+            "title": "BMW iX xDrive45 AHK Driv.Assist.Prof Harman/K LED",
+            "price": "615,77 €/mtl.",
+            "url": "https://www.goleasy.de/forward/010f9b87-8cc3-410e-90bb-65890ba63ba5/leasing/f53244e7-a570-4959-87f5-8bf644db9289?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c1/c1609822-5966-4c86-bcae-c8dd119e2a42?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-11-21 15:45:44"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "afe5c4ec-968d-4a74-a2de-753112f40a72_e2ea4ffb-c8e4-4450-afcc-ed9d7b37c777",
+            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
+            "price": "625,20 €/mtl.",
+            "url": "https://www.goleasy.de/forward/afe5c4ec-968d-4a74-a2de-753112f40a72/leasing/e2ea4ffb-c8e4-4450-afcc-ed9d7b37c777?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/6c/6c851ef5-3825-4394-be96-9f9e52175349?rule=mo-640.jpg",
             "equipment": {
                 "status": "unknown",
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-20 12:01:05"
+                "checked_at": "2026-11-21 15:45:45"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "e828d727-cdd2-4d04-91cf-c37759a4eba3_9e71a5de-5754-4f0c-a08b-1ae53b88ae35",
+            "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
+            "price": "633,63 €/mtl.",
+            "url": "https://www.goleasy.de/forward/e828d727-cdd2-4d04-91cf-c37759a4eba3/leasing/9e71a5de-5754-4f0c-a08b-1ae53b88ae35?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c2/c22bd3ca-aa54-4be5-a308-a3b05d90472b?rule=mo-640.jpg",
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-11-21 15:45:45"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "274bd212-6c63-40ea-a1fb-523b50ccae73_96a7e3d3-7ce2-4346-b47e-4b16d524fd9d",
+            "title": "BMW iX xDrive45 M-Sport SkyLou. DA/PA-Pro Leas 649,-",
+            "price": "648,55 €/mtl.",
+            "url": "https://www.goleasy.de/forward/274bd212-6c63-40ea-a1fb-523b50ccae73/leasing/96a7e3d3-7ce2-4346-b47e-4b16d524fd9d?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/74/74ba1ac7-fedf-464d-89c3-81f6407664a2?rule=mo-640.jpg",
+            "equipment": {
+                "status": "unknown",
+                "matches": false,
+                "color": "Schwarz",
+                "features": [],
+                "checked_at": "2026-11-21 15:45:45"
             }
         },
         {
@@ -51,51 +111,6 @@
         },
         {
             "source": "goleasy.de",
-            "id": "985e1a0d-2c4d-41a5-b935-f5129f7dc8df_747899c0-8992-47be-bc5e-5edda300c931",
-            "title": "BMW iX xDrive45 AHK Driv.Assist+ Harman/K Kamera",
-            "price": "680,86 €/mtl.",
-            "url": "https://www.goleasy.de/forward/985e1a0d-2c4d-41a5-b935-f5129f7dc8df/leasing/747899c0-8992-47be-bc5e-5edda300c931?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/51/51caf7e8-7a9a-4fc0-b1de-dcbde489c593?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-11-20 12:01:05"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "010f9b87-8cc3-410e-90bb-65890ba63ba5_95256d2a-6486-4909-87de-23b277eb8c28",
-            "title": "BMW iX xDrive45 AHK Driv.Assist.Prof Harman/K LED",
-            "price": "692,64 €/mtl.",
-            "url": "https://www.goleasy.de/forward/010f9b87-8cc3-410e-90bb-65890ba63ba5/leasing/95256d2a-6486-4909-87de-23b277eb8c28?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c1/c1609822-5966-4c86-bcae-c8dd119e2a42?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Grau",
-                "features": [],
-                "checked_at": "2026-11-19 12:45:52"
-            }
-        },
-        {
-            "source": "goleasy.de",
-            "id": "8dc38401-636f-435f-a2f8-114a5a18e8c8_af5addd6-a269-40c0-a96f-c113a552880c",
-            "title": "BMW iX xDrive45",
-            "price": "693,47 €/mtl.",
-            "url": "https://www.goleasy.de/forward/8dc38401-636f-435f-a2f8-114a5a18e8c8/leasing/af5addd6-a269-40c0-a96f-c113a552880c?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/e8/e8cff7c5-e218-4220-92dc-5ffae8109d68?rule=mo-640.jpg",
-            "equipment": {
-                "status": "reject",
-                "matches": false,
-                "color": "Weiß",
-                "features": [],
-                "checked_at": "2026-11-19 12:45:52"
-            }
-        },
-        {
-            "source": "goleasy.de",
             "id": "8562cf2a-fa04-4037-bde7-7d04035545aa_9d66fdfe-7967-4c14-b4d7-743658580386",
             "title": "BMW iX 45 M SPORT DAProf 360° AHK H/K Leas 698,-oA",
             "price": "697,99 €/mtl.",
@@ -107,6 +122,21 @@
                 "color": "Weiß",
                 "features": [],
                 "checked_at": "2026-11-13 10:31:05"
+            }
+        },
+        {
+            "source": "goleasy.de",
+            "id": "45ff1866-d1da-4282-bcc8-5c3f62d1fdf2_ea3b3772-edbb-42c7-80dc-73a730e0174d",
+            "title": "BMW iX xDrive50 Sportpaket HUD Sky Laser ACC AHK",
+            "price": "698,99 €/mtl.",
+            "url": "https://www.goleasy.de/forward/45ff1866-d1da-4282-bcc8-5c3f62d1fdf2/leasing/ea3b3772-edbb-42c7-80dc-73a730e0174d?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/d5/d5d4d762-acaf-4dc6-bab0-fee43aa9759b?rule=mo-640.jpg",
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Grau",
+                "features": [],
+                "checked_at": "2026-11-01 17:31:04"
             }
         },
         {
