@@ -1,6 +1,6 @@
 {
-    "generated": "2026-11-22T15:00:47+00:00",
-    "count": 10,
+    "generated": "2026-11-23T15:15:44+00:00",
+    "count": 11,
     "offers": [
         {
             "source": "toprate24.de",
@@ -61,7 +61,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-22 16:00:46"
+                "checked_at": "2026-11-23 16:15:42"
             }
         },
         {
@@ -76,7 +76,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-22 16:00:46"
+                "checked_at": "2026-11-23 16:15:43"
             }
         },
         {
@@ -91,7 +91,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-22 16:00:47"
+                "checked_at": "2026-11-23 16:15:44"
             }
         },
         {
@@ -154,6 +154,23 @@
                 "color": "Alpinweiß uni",
                 "features": [],
                 "checked_at": "2026-11-14 15:16:13"
+            }
+        },
+        {
+            "source": "mister-leasing.de",
+            "id": "519xl4I",
+            "title": "BMW iX xDrive60 M Sport Pro AHK Luftfederung 22Zoll M Sport Pro – 544 PS",
+            "price": "895,00 €/mtl. (27M/5.000km)",
+            "url": "https://mister-leasing.de/fahrzeug/519xl4I",
+            "image": "https://rpmzovgeudcbljqjsjpb.supabase.co/storage/v1/object/public/vehicle-images/feed/441884757203/219627/v20261110131144-219627_1.jpg",
+            "color": "Blau",
+            "list_price": 127160,
+            "equipment": {
+                "status": "reject",
+                "matches": false,
+                "color": "Blau",
+                "features": [],
+                "checked_at": "2026-11-23 16:15:44"
             }
         }
     ]
