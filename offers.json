@@ -1,5 +1,5 @@
 {
-    "generated": "2026-11-24T15:01:19+00:00",
+    "generated": "2026-11-25T12:46:30+00:00",
     "count": 9,
     "offers": [
         {
@@ -31,7 +31,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-24 16:01:18"
+                "checked_at": "2026-11-25 13:46:29"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-24 16:01:18"
+                "checked_at": "2026-11-25 13:46:29"
             }
         },
         {
@@ -61,22 +61,22 @@
                 "matches": false,
                 "color": "Schwarz",
                 "features": [],
-                "checked_at": "2026-11-24 16:01:19"
+                "checked_at": "2026-11-25 13:46:29"
             }
         },
         {
             "source": "goleasy.de",
-            "id": "3fd65c8a-1c82-4ca8-9c14-80abc7f4237c_2fb936b0-b3ca-4d2f-b70f-4d399ceafcde",
+            "id": "aa252d71-38e7-4e8d-b952-756faeecaeb4_3cbdafa1-0434-48d1-b23b-79aadf164eba",
             "title": "BMW iX xDrive45 M Sport AHK Driv.Assist.Prof Kamera",
-            "price": "677,25 €/mtl.",
-            "url": "https://www.goleasy.de/forward/3fd65c8a-1c82-4ca8-9c14-80abc7f4237c/leasing/2fb936b0-b3ca-4d2f-b70f-4d399ceafcde?source=redirect",
-            "image": "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7257cf8-5ac3-4429-96e4-339414d06bb3?rule=mo-640.jpg",
+            "price": "666,08 €/mtl.",
+            "url": "https://www.goleasy.de/forward/aa252d71-38e7-4e8d-b952-756faeecaeb4/leasing/3cbdafa1-0434-48d1-b23b-79aadf164eba?source=redirect",
+            "image": "https://img.classistatic.de/api/v1/mo-prod/images/96/96e92958-2cdc-4211-ad88-fd22358a84bf?rule=mo-640.jpg",
             "equipment": {
                 "status": "reject",
                 "matches": false,
-                "color": "Weiß",
+                "color": "Grau",
                 "features": [],
-                "checked_at": "2026-11-13 10:31:05"
+                "checked_at": "2026-11-25 13:46:30"
             }
         },
         {
